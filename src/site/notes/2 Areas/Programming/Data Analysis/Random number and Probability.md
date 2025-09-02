@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/data-analysis/random-number-and-probability/"}
+{"dg-publish":true,"permalink":"/2-areas/programming/data-analysis/random-number-and-probability/","created":"2024-09-12T15:47:08.048+07:00","updated":"2025-09-02T22:59:45.095+07:00"}
 ---
 
 **Sampling without replacement** -> เหตุการณ์เกิดพร้อมกัน

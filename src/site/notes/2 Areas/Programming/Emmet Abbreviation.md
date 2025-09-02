@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/emmet-abbreviation/"}
+{"dg-publish":true,"permalink":"/2-areas/programming/emmet-abbreviation/","created":"2024-10-17T22:41:11.742+07:00","updated":"2025-09-02T22:50:08.648+07:00"}
 ---
 
 ```html

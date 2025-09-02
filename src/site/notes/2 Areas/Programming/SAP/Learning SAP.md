@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/"}
+{"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/","created":"2025-04-02T21:09:17.083+07:00","updated":"2025-09-02T22:52:11.566+07:00"}
 ---
 
 ## Installation

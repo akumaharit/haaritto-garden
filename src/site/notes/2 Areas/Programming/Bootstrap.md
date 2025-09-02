@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/bootstrap/"}
+{"dg-publish":true,"permalink":"/2-areas/programming/bootstrap/","created":"2024-10-16T22:02:38.181+07:00","updated":"2025-09-02T22:50:12.584+07:00"}
 ---
 
 You can easily load bootstrap using CDN
