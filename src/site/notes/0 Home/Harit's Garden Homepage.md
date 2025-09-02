@@ -3,7 +3,8 @@
 ---
 
 [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]
-[[2 Areas/Programming/Automation System\|Automation System]]
+
+
 [[2 Areas/Programming/Emmet Abbreviation\|Emmet Abbreviation]]
 [[2 Areas/Programming/Bootstrap\|Bootstrap]]
 [[2 Areas/Programming/Data Analysis/Random number and Probability\|Random number and Probability]]
