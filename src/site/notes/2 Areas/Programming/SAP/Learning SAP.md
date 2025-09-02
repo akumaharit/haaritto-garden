@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/"}
 ---
 
+## Installation
 To host SAP on VM please follow the following steps:
 - https://www.googlecloudcommunity.com/gc/Developer-Tools/Install-ABAP-Platform-Trial-2022-on-Google-Cloud-Platform-and/m-p/813482
 - Check for the installation scripts at: https://github.com/google-cloud-abap/abap-cloud-trial-2022-gcp/blob/main/create_vm_with_docker.sh
