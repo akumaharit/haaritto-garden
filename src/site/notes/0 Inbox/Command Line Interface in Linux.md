@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/command-line-interface-in-linux/","created":"2024-01-04T22:11:04.398+07:00","updated":"2025-09-02T22:57:38.940+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/command-line-interface-in-linux/","created":"2024-01-04T22:11:04.398+07:00","updated":"2025-09-14T20:30:35.883+07:00"}
 ---
 
 
