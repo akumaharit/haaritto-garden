@@ -1,0 +1,37 @@
+---
+{"dg-publish":true,"permalink":"/2-areas/programming/data/creating-keras-model/","created":"2023-02-12T22:00:51.170+07:00","updated":"2025-09-02T23:21:30.884+07:00"}
+---
+
+![Pasted image 20221026211250.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020221026211250.png)
+- Keras เป็น library ที่มี activation function ทุกรูปแบบถ้าเราต้องการจะใช้
+- เราต้องกำหนด node ของ input ทุกครั้งว่าจะมีเท่าไหร่
+- Model มีหลายรูปแบบ
+	- sequential หมายถึง layer นึงจะต่อไปอีก layer นึงเป็นลำดับ ๆ
+- add method
+	- Dense หมายถึง ทุก node จะต้องเชื่อมกัน
+		- 1st number on node
+		- 2nd activation = '.....' //ใส่ชื่อ activation function ไป
+		- 3rd input_shape = (columns,row) //ถ้าเว้น row ไว้ก็คืออะไรก็ได้ อาจจะตาม datapoint เลยแต่ column จะตามที่ใส่ไป
+- choose Optimizer
+	- มีเยอะมาก 
+	- 'adam' คือแนะนำ Adam มันจะปรับ learning rate ตาม gradient descent เพื่อให้เหมาะสมที่สุด 
+	- 'sgd' = [[2 Areas/Programming/Data/Optimizing a neural network with backward propagation#^fc761b\|Stochastic Gradient Descent.]]
+	- Loss function
+	- 'mean_squared_error_' คือ MSE common for regression
+	- 'categorical_crossentropy' คือ most common for classification problem
+		- ค่าที่มันเอาออกมาให้มันแปลผลยาก จึงมีการใช้คำสั่ง
+		- `metrics = ['accuracy']` มันจะปริ้น accuracy ออกมาเมื่อจบ epoch
+- output
+	- ใช้ Softmax ได้ในการเปลี่ยนเพื่อให้มันเป็น 0-1 จะได้แปลผลเป็น probabilities
+- fitting model
+	- ก็คือการ apply backpropagation & gradient descent
+	- scaling data จะช่วยให้ optimizaiton ให้ไวขึ้น (ปรับให้มันขนาดเท่า ๆ กัน)
+		- วิธีที่ใช้กันบ่อยก็คือ เอาค่า feature ลบ mean ของมันแล้วหารด้วย SD ของมัน
+- ![96A10CBA-941E-4A7F-BB7B-97E501BA8885.png](/img/user/3%20Resources/Attachment/96A10CBA-941E-4A7F-BB7B-97E501BA8885.png)
+- การใช้ Model
+	- save, reload, use model
+	- เซฟในรูปแบบ hdf5 (.h5)
+	- ![BB6EFB05-86A6-44B1-A4FD-DA6EFC64687E.png](/img/user/3%20Resources/Attachment/BB6EFB05-86A6-44B1-A4FD-DA6EFC64687E.png)
+		- มันคือใส่ตัวแปรไปนะ
+	- สามารถใช้ .summary() กับ model ได้เพื่อดู model architecture
+	- อย่าลืมว่าเราจะใส่แค่ array เข้าไปมันเลยต้องมี .value ตามบทเรียนก่อน ๆ 
