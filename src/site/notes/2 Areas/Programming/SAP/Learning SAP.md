@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/","created":"2025-04-02T21:09:17.083+07:00","updated":"2025-09-14T21:17:07.304+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/","created":"2025-04-02T21:09:17.083+07:00","updated":"2025-09-14T21:18:20.931+07:00"}
 ---
 
 
@@ -195,7 +195,8 @@ country_code = phone_number+1(2). *** This mean starting from the 1 index length
 	- char01, char03 (the number is length)
 	- curr9 (currency)
 - Pre-existing data-element
-	- When working with the currency (data type CURR), you have to specify the currency key field![Pasted image 20250420145301.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020250420145301.png)
+	- When working with the currency (data type CURR), you have to specify the currency key field
+	  ![Pasted image 20250420145301.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020250420145301.png)
 	- To enable error-checking (valid data-entry) for the currency key, you can add "foreign key" to enable to drop-down (BECAUSE the CURCY data element, contain the domain that use "VALUE TABLE" for value range checking.
 	- CURCY (currency key field)
 - Creating foreign create
