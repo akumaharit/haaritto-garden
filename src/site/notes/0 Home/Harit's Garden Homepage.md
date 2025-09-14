@@ -13,19 +13,8 @@
 
 | File                                                                                                                                                           | Modified   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[2 Areas/Programming/SAP/SAP Installation\|SAP Installation]]                                                                                              | 2025-09-14 |
 | [[2 Areas/Programming/SAP/SAP ABAP\|SAP ABAP]]                                                                                                              | 2025-09-14 |
-| [[Working with Database Table\|Working with Database Table]]                                                                                                | 2025-09-14 |
-| [[System Field\|System Field]]                                                                                                                              | 2025-09-14 |
-| [[Debugging\|Debugging]]                                                                                                                                    | 2025-09-14 |
-| [[Character Strings\|Character Strings]]                                                                                                                    | 2025-09-14 |
-| [[Arithmetic Calculation and Conversion\|Arithmetic Calculation and Conversion]]                                                                            | 2025-09-14 |
-| [[Data dictionary\|Data dictionary]]                                                                                                                        | 2025-09-14 |
-| [[Variable Declaration\|Variable Declaration]]                                                                                                              | 2025-09-14 |
-| [[Data Type\|Data Type]]                                                                                                                                    | 2025-09-14 |
-| [[Basic Syntax\|Basic Syntax]]                                                                                                                              | 2025-09-14 |
-| [[Creating Program\|Creating Program]]                                                                                                                      | 2025-09-14 |
-| [[Introduction\|Introduction]]                                                                                                                              | 2025-09-14 |
+| [[2 Areas/Programming/SAP/SAP Installation\|SAP Installation]]                                                                                              | 2025-09-14 |
 | [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                      | 2025-09-14 |
 | [[2 Areas/Pharmacogenomics/Pharmacogenomics Counseling\|Pharmacogenomics Counseling]]                                                                       | 2025-09-14 |
 | [[2 Areas/Pharmacogenomics/Basic Pharmacogenomics Concept\|Basic Pharmacogenomics Concept]]                                                                 | 2025-09-14 |
