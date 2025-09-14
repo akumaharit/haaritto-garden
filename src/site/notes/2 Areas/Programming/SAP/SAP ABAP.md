@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/sap/sap-abap/","created":"2025-09-14T21:38:11.772+07:00","updated":"2025-09-14T21:45:51.312+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/sap/sap-abap/","created":"2025-09-14T21:38:11.772+07:00","updated":"2025-09-14T21:48:03.115+07:00"}
 ---
 
 ### Intro
@@ -137,8 +137,8 @@ DATA phone_number(17) VALUE '+44-(0)207-123456'.
 DATA country_code(3).
 DATA telephone_num(14).
 
-telephone_num = phone_number+4(13). *** This mean starting from the 4 index length of 13 of phone_number will be assigned to telephone_num
-country_code = phone_number+1(2). *** This mean starting from the 1 index length of 2 of phone_number will be assigned to country code
+telephone_num = phone_number+4(13). This mean starting from the 4 index length of 13 of phone_number will be assigned to telephone_num
+country_code = phone_number+1(2). This mean starting from the 1 index length of 2 of phone_number will be assigned to country code
 ```
 ### Debugging
 - Single Step (F5): go line by line single step
