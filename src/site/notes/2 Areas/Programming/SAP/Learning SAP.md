@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/","created":"2025-04-02T21:09:17.083+07:00","updated":"2025-09-14T21:11:44.419+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/","created":"2025-04-02T21:09:17.083+07:00","updated":"2025-09-14T21:17:07.304+07:00"}
 ---
 
 
@@ -37,7 +37,7 @@ SAP run with its SAP kernel, SAP code is stored in the SAP database (not an exte
 ![Object Directory Entry Prompt.png](/img/user/3%20Resources/Attachment/Object%20Directory%20Entry%20Prompt.png)
 
  Any change you do through SAP will prompt you to create object directory, choose the "development class" to choose the transport route that we want to use for the development. IF you don't want to transport it anywhere, just click 'local object'
- - Anytime you use local object, it will be automatically assigned development class to`$tmp`
+ - Anytime you use local object, it will be automatically assigned development class to `$tmp`
  - When activating the objects, ALWAYS active one object at a time #tounderstand 
  - Everytime you **ACTIVE** the object, it will automatically **SAVE** the object before activating.
 
@@ -50,7 +50,7 @@ ABAP editor: se38
 	- Turning on editor lock will prevent the program from being edited.
 	- Fixed point arithmetic will allow decimal (if not ticked, it will be rounded to whole number)
 	- Unicode code check, always turn this open so it check for... 
-t-code: `ABAPDOCU` to open ABAP DOCUMENT
+- t-code: `ABAPDOCU` to open ABAP DOCUMENT
 
 ### Basic Syntax
 - `REPORT` always the first of the program.
@@ -64,7 +64,7 @@ t-code: `ABAPDOCU` to open ABAP DOCUMENT
 - Insert blank line via `SKIP 1`, you can change the number of line to add
 - `ULINE` to insert horizontal line
 
-Declaring Variable and using Suppressing Blank
+- Declaring Variable and using Suppressing Blank
 
 ``` 
 DATA: W_NUR(10) TYPE N. 
@@ -72,9 +72,9 @@ DATA: W_NUR(10) TYPE N.
 	  WRITE W_NUR NO-ZERO.
 ```
 
-This declare a variable "W_NUR" with length of 10 type = number, and assign value '50' to a variable 'W_NUR' then WRITE with NO-ZERO to suppress all leading zeros of a number field.
+- This declare a variable "W_NUR" with length of 10 type = number, and assign value '50' to a variable 'W_NUR' then WRITE with NO-ZERO to suppress all leading zeros of a number field.
 
-`MESSAGE` command to display message defined by message ID.
+- `MESSAGE` command to display message defined by message ID.
 
 ``` 
 MESSAGE 'คุณกำลังเข้าสู่บริการรับฝากหัวใจจจ' TYPE 'I' DISPLAY LIKE 'E'.
