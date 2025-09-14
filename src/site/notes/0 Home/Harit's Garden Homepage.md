@@ -1,19 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/0-home/harit-s-garden-homepage/","tags":["gardenEntry"],"created":"2025-09-02T22:41:52.133+07:00","updated":"2025-09-14T21:02:48.588+07:00"}
+{"dg-publish":true,"permalink":"/0-home/harit-s-garden-homepage/","tags":["gardenEntry"],"created":"2025-09-02T22:41:52.133+07:00","updated":"2025-09-14T21:05:31.482+07:00"}
 ---
 
 
 
 # Welcome to Harit's Garden 🪴🌻
 ![Pasted image 20250914210241.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020250914210241.png)
-## Learn. Create. Grow. - Spread the Positivity Vibe
-A balanced life isn’t about choosing less; it’s about aligning everything you do with who you are becoming—and in doing so, you light the way for others to grow too.
+## **Learn. Create. Grow. - Spread the Positivity Vibe**
+> A balanced life isn’t about choosing less; it’s about aligning everything you do with who you are becoming—and in doing so, you light the way for others to grow too.
 
 > The following lists were created using DATAVIEW, Please just **CTRL+K** to search for something (it's a lot better than scrolling here! 😆), trust me!
->
 
 | File                                                                                                                                                                    | Modified   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                               | 2025-09-14 |
 | [[0 Home/Harit's Garden Homepage\|Harit's Garden Homepage]]                                                                                                          | 2025-09-14 |
 | [[0 Inbox/Command Line Interface in Linux\|Command Line Interface in Linux]]                                                                                         | 2025-09-14 |
 | [[0 Inbox/Summary Statistics\|Summary Statistics]]                                                                                                                   | 2025-09-14 |
