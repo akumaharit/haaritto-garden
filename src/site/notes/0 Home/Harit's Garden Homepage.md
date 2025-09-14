@@ -13,6 +13,7 @@
 
 | File                                                                                                                                                           | Modified   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[2 Areas/Programming/SAP/Character Strings\|Character Strings]]                                                                                            | 2025-09-14 |
 | [[2 Areas/Programming/SAP/SAP ABAP\|SAP ABAP]]                                                                                                              | 2025-09-14 |
 | [[2 Areas/Programming/SAP/SAP Installation\|SAP Installation]]                                                                                              | 2025-09-14 |
 | [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                      | 2025-09-14 |
