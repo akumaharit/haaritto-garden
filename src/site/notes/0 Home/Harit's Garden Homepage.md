@@ -13,6 +13,9 @@
 
 | File                                                                                                                                                                    | Modified   |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/Pharmacogenomics Counseling\|Pharmacogenomics Counseling]]                                                                                                 | 2025-09-14 |
+| [[0 Inbox/Basic Pharmacogenomics Concept\|Basic Pharmacogenomics Concept]]                                                                                           | 2025-09-14 |
+| [[0 Inbox/Community Pharmacogenomics Summary\|Community Pharmacogenomics Summary]]                                                                                   | 2025-09-14 |
 | [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                               | 2025-09-14 |
 | [[0 Home/Harit's Garden Homepage\|Harit's Garden Homepage]]                                                                                                          | 2025-09-14 |
 | [[0 Inbox/Command Line Interface in Linux\|Command Line Interface in Linux]]                                                                                         | 2025-09-14 |
