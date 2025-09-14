@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/0-home/harit-s-garden-homepage/","tags":["gardenEntry"],"created":"2025-09-02T22:41:52.133+07:00","updated":"2025-09-14T21:05:31.482+07:00"}
+{"dg-publish":true,"permalink":"/0-home/harit-s-garden-homepage/","tags":["gardenEntry"],"created":"2025-09-02T22:41:52.133+07:00","updated":"2025-09-14T21:09:54.909+07:00"}
 ---
 
 
 
 # Welcome to Harit's Garden 🪴🌻
 ![Pasted image 20250914210241.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020250914210241.png)
-## **Learn. Create. Grow. - Spread the Positivity Vibe**
+## **Learn. Create. Grow.** - and spread the positivity vibe ⭐
 > A balanced life isn’t about choosing less; it’s about aligning everything you do with who you are becoming—and in doing so, you light the way for others to grow too.
 
 > The following lists were created using DATAVIEW, Please just **CTRL+K** to search for something (it's a lot better than scrolling here! 😆), trust me!

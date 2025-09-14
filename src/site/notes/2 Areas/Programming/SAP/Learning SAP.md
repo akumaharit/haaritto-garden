@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/","created":"2025-04-02T21:09:17.083+07:00","updated":"2025-09-14T21:07:44.729+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/sap/learning-sap/","created":"2025-04-02T21:09:17.083+07:00","updated":"2025-09-14T21:11:44.419+07:00"}
 ---
+
 
 ## Installation
 To host SAP on VM please follow the following steps:
@@ -8,7 +9,7 @@ To host SAP on VM please follow the following steps:
 - Check for the installation scripts at: https://github.com/google-cloud-abap/abap-cloud-trial-2022-gcp/blob/main/create_vm_with_docker.sh
 - Run docker using these parameters:
 
-```
+``` 
 sudo docker run \
   --stop-timeout 3600 \
   --name a4h \
@@ -65,7 +66,7 @@ t-code: `ABAPDOCU` to open ABAP DOCUMENT
 
 Declaring Variable and using Suppressing Blank
 
-```ABAP 
+``` 
 DATA: W_NUR(10) TYPE N. 
 	  MOVE 50 TO W_NUR. 
 	  WRITE W_NUR NO-ZERO.
@@ -75,7 +76,7 @@ This declare a variable "W_NUR" with length of 10 type = number, and assign valu
 
 `MESSAGE` command to display message defined by message ID.
 
-``` ABAP
+``` 
 MESSAGE 'คุณกำลังเข้าสู่บริการรับฝากหัวใจจจ' TYPE 'I' DISPLAY LIKE 'E'.
 ```
 
@@ -162,7 +163,7 @@ In ABAP, there are also "arrays" but it is called 'internal tables' in ABAP. (it
 	- If there are more to be split but **the variables to spilt into is full**, the rest of the string will be assigned to the last variable.
 - Subfield (referring to a specific character in the field or variable)
 
-```ABAP
+```
 DATA phone_number(17) VALUE '+44-(0)207-123456'.
 DATA country_code(3).
 DATA telephone_num(14).
