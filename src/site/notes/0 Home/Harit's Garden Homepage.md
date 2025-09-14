@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/0-home/harit-s-garden-homepage/","tags":["gardenEntry"],"created":"2025-09-02T22:41:52.133+07:00","updated":"2025-09-14T20:53:31.660+07:00"}
+{"dg-publish":true,"permalink":"/0-home/harit-s-garden-homepage/","tags":["gardenEntry"],"created":"2025-09-02T22:41:52.133+07:00","updated":"2025-09-14T20:54:27.976+07:00"}
 ---
 
 
 
-> The following lists were created using DATAVIEW,
-> Please just **CTRL+K** to search for something (it's a lot better than scrolling here! 😆), trust me!
+> The following lists were created using DATAVIEW, Please just **CTRL+K** to search for something (it's a lot better than scrolling here! 😆), trust me!
 >
 
 | File                                                                                                                                                                    | Modified   |
