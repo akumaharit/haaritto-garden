@@ -13,6 +13,7 @@
 
 | File                                                                                                                                                           | Modified   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/Understanding Artificial Intelligence\|Understanding Artificial Intelligence]]                                                                    | 2025-09-15 |
 | [[2 Areas/Programming/SAP/Character Strings\|Character Strings]]                                                                                            | 2025-09-14 |
 | [[2 Areas/Programming/SAP/SAP ABAP\|SAP ABAP]]                                                                                                              | 2025-09-14 |
 | [[2 Areas/Programming/SAP/SAP Installation\|SAP Installation]]                                                                                              | 2025-09-14 |
