@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/domain-names-dns/","created":"2023-12-05T18:48:49.716+07:00","updated":"2025-09-17T11:37:18.419+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/domain-names-dns/","created":"2023-12-05T18:48:49.716+07:00","updated":"2025-09-17T22:35:25.584+07:00"}
 ---
 
 ![Pasted image 20231205184905.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020231205184905.png)
@@ -38,7 +38,9 @@ The solution is **glue record**. Simply, when the resolver ask TLD Server about 
 
 
 
-
+vv probably the best images i ever found that summarize what the hell is DNS :)
+![Pasted image 20250917223441.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020250917223441.png)
+![Pasted image 20250917223508.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020250917223508.png)
 ## Summary
 - OS จะเสิชในตัวเองก่อน ว่ามีมั้ย ถ้าไม่มีจึงถาม Resolver
 	- Resolver = ISP
