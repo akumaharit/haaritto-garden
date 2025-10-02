@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/python/working-with-the-open-ai-api/","created":"2025-09-27T13:33:35.114+07:00","updated":"2025-09-27T16:40:37.363+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/python/working-with-the-open-ai-api/","tags":["datacamp"],"created":"2025-09-27T13:33:35.114+07:00","updated":"2025-09-29T22:14:50.258+07:00"}
 ---
 
 

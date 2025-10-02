@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/python/transforming-dataframes/","created":"2023-02-12T22:00:51.235+07:00","updated":"2025-09-22T22:54:28.008+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/python/transforming-dataframes/","created":"2023-02-12T22:00:51.235+07:00","updated":"2025-09-22T22:54:23.380+07:00"}
 ---
 
 - pandas is built on numpy and matplotlib

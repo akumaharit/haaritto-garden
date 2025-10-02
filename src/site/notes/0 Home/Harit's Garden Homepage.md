@@ -13,53 +13,53 @@
 
 
 ## 10 Newest Notes 🆕🔥
-| File                                                                                                                                                                       | Created    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[0 Home/พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)\|พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)]] | 2025-09-27 |
-| [[2 Areas/Programming/Python/Working with the OpenAI API\|Working with the OpenAI API]]                                                                                 | 2025-09-27 |
-| [[2 Areas/Content Creation/Learning how to create high quality video or reels for Instagram\|Learning how to create high quality video or reels for Instagram]]         | 2025-09-20 |
-| [[2 Areas/Programming/SAP/Character Strings\|Character Strings]]                                                                                                        | 2025-09-14 |
-| [[2 Areas/Programming/SAP/SAP ABAP\|SAP ABAP]]                                                                                                                          | 2025-09-14 |
-| [[2 Areas/Programming/SAP/SAP Installation\|SAP Installation]]                                                                                                          | 2025-09-14 |
-| [[0 Home/Harit's Garden Homepage\|Harit's Garden Homepage]]                                                                                                             | 2025-09-02 |
-| [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                                  | 2025-04-02 |
-| [[2 Areas/Programming/Emmet Abbreviation\|Emmet Abbreviation]]                                                                                                          | 2024-10-17 |
-| [[2 Areas/Programming/Web/Bootstrap\|Bootstrap]]                                                                                                                        | 2024-10-16 |
+| File                                                                                                                                                                                         | Created    |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[2 Areas/Programming/Web/python-dotenv\|python-dotenv]]                                                                                                                                  | 2025-10-01 |
+| [[2 Areas/Programming/Web/1 - Hello World Flask Application\|1 - Hello World Flask Application]]                                                                                          | 2025-10-01 |
+| [[2 Areas/Programming/Web/__name__\|__name__]]                                                                                                                                            | 2025-10-01 |
+| [[2 Areas/Programming/Web/Python Package\|Python Package]]                                                                                                                                | 2025-10-01 |
+| [[2 Areas/Programming/Web/Python virtual environment\|Python virtual environment]]                                                                                                        | 2025-10-01 |
+| [[2 Areas/Programming/Web/The Flask Mega Tutorial 2024 - Miguel Grinberg\|The Flask Mega Tutorial 2024 - Miguel Grinberg]]                                                                | 2025-10-01 |
+| [[2 Areas/Programming/Python/Prompt Engineering with the OpenAI API\|Prompt Engineering with the OpenAI API]]                                                                             | 2025-09-29 |
+| [[2 Areas/Self improvement/พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)\|พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)]] | 2025-09-27 |
+| [[2 Areas/Programming/Python/Working with the OpenAI API\|Working with the OpenAI API]]                                                                                                   | 2025-09-27 |
+| [[2 Areas/Content Creation/Learning how to create high quality video or reels for Instagram\|Learning how to create high quality video or reels for Instagram]]                           | 2025-09-20 |
 
 { .block-language-dataview}
 
 ## 30 Latest Modified Notes ⚒️📝
-| File                                                                                                                                                                       | Modified   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[0 Home/พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)\|พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)]] | 2025-09-27 |
-| [[2 Areas/Programming/Python/Working with the OpenAI API\|Working with the OpenAI API]]                                                                                 | 2025-09-27 |
-| [[2 Areas/Programming/Python/Python Toolbox (Python Data Science Toolbox 2)\|Python Toolbox (Python Data Science Toolbox 2)]]                                           | 2025-09-27 |
-| [[2 Areas/Content Creation/Learning how to create high quality video or reels for Instagram\|Learning how to create high quality video or reels for Instagram]]         | 2025-09-25 |
-| [[2 Areas/Programming/Python/Transforming Dataframes\|Transforming Dataframes]]                                                                                         | 2025-09-22 |
-| [[2 Areas/Programming/Python/Aggregating Data frames\|Aggregating Data frames]]                                                                                         | 2025-09-22 |
-| [[2 Areas/Programming/Python/Slicing and Indexing Dataframe\|Slicing and Indexing Dataframe]]                                                                           | 2025-09-22 |
-| [[2 Areas/Programming/Python/Creating and Visualizing DataFrames\|Creating and Visualizing DataFrames]]                                                                 | 2025-09-22 |
-| [[2 Areas/Programming/Python/Introduction to Functions in Python (Python Data Science Toolbox 1)\|Introduction to Functions in Python (Python Data Science Toolbox 1)]] | 2025-09-22 |
-| [[0 Inbox/Domain Names, DNS\|Domain Names, DNS]]                                                                                                                        | 2025-09-17 |
-| [[0 Home/Harit's Garden Homepage\|Harit's Garden Homepage]]                                                                                                             | 2025-09-15 |
-| [[0 Inbox/Understanding Artificial Intelligence\|Understanding Artificial Intelligence]]                                                                                | 2025-09-15 |
-| [[2 Areas/Programming/SAP/Character Strings\|Character Strings]]                                                                                                        | 2025-09-14 |
-| [[2 Areas/Programming/SAP/SAP ABAP\|SAP ABAP]]                                                                                                                          | 2025-09-14 |
-| [[2 Areas/Programming/SAP/SAP Installation\|SAP Installation]]                                                                                                          | 2025-09-14 |
-| [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                                  | 2025-09-14 |
-| [[2 Areas/Pharmacogenomics/Pharmacogenomics Counseling\|Pharmacogenomics Counseling]]                                                                                   | 2025-09-14 |
-| [[2 Areas/Pharmacogenomics/Basic Pharmacogenomics Concept\|Basic Pharmacogenomics Concept]]                                                                             | 2025-09-14 |
-| [[2 Areas/Pharmacogenomics/Community Pharmacogenomics Summary\|Community Pharmacogenomics Summary]]                                                                     | 2025-09-14 |
-| [[2 Areas/Computer/Command Line Interface in Linux\|Command Line Interface in Linux]]                                                                                   | 2025-09-14 |
-| [[2 Areas/Programming/Data/Summary Statistics\|Summary Statistics]]                                                                                                     | 2025-09-14 |
-| [[2 Areas/Programming/Data/Classification\|Classification]]                                                                                                             | 2025-09-02 |
-| [[2 Areas/Programming/Data/Machine learning with scikit-learn\|Machine learning with scikit-learn]]                                                                     | 2025-09-02 |
-| [[2 Areas/Programming/Data/Regression\|Regression]]                                                                                                                     | 2025-09-02 |
-| [[2 Areas/Programming/Data/But what is a neural network - Chapter 1 Deep learning\|But what is a neural network - Chapter 1 Deep learning]]                             | 2025-09-02 |
-| [[2 Areas/Programming/Data/Mean-Squared Error\|Mean-Squared Error]]                                                                                                     | 2025-09-02 |
-| [[2 Areas/Programming/Data/Introduction to Deep Learning\|Introduction to Deep Learning]]                                                                               | 2025-09-02 |
-| [[2 Areas/Programming/Data/Deep Learning from 3Blue1Brown\|Deep Learning from 3Blue1Brown]]                                                                             | 2025-09-02 |
-| [[2 Areas/Programming/Data/Basics of deep learning and neural networks\|Basics of deep learning and neural networks]]                                                   | 2025-09-02 |
-| [[2 Areas/Programming/Data/Understanding the model optimization\|Understanding the model optimization]]                                                                 | 2025-09-02 |
+| File                                                                                                                                                                                         | Modified   |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[2 Areas/Programming/Python/Python Toolbox (Python Data Science Toolbox 2)\|Python Toolbox (Python Data Science Toolbox 2)]]                                                             | 2025-10-01 |
+| [[2 Areas/Programming/Web/1 - Hello World Flask Application\|1 - Hello World Flask Application]]                                                                                          | 2025-10-01 |
+| [[2 Areas/Programming/Web/The Flask Mega Tutorial 2024 - Miguel Grinberg\|The Flask Mega Tutorial 2024 - Miguel Grinberg]]                                                                | 2025-10-01 |
+| [[2 Areas/Programming/Web/python-dotenv\|python-dotenv]]                                                                                                                                  | 2025-10-01 |
+| [[2 Areas/Programming/Web/__name__\|__name__]]                                                                                                                                            | 2025-10-01 |
+| [[2 Areas/Programming/Web/Python Package\|Python Package]]                                                                                                                                | 2025-10-01 |
+| [[2 Areas/Programming/Web/Python virtual environment\|Python virtual environment]]                                                                                                        | 2025-10-01 |
+| [[2 Areas/Programming/Python/Working with the OpenAI API\|Working with the OpenAI API]]                                                                                                   | 2025-09-29 |
+| [[2 Areas/Programming/Python/Prompt Engineering with the OpenAI API\|Prompt Engineering with the OpenAI API]]                                                                             | 2025-09-29 |
+| [[2 Areas/Self improvement/พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)\|พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)]] | 2025-09-27 |
+| [[2 Areas/Content Creation/Learning how to create high quality video or reels for Instagram\|Learning how to create high quality video or reels for Instagram]]                           | 2025-09-25 |
+| [[2 Areas/Programming/Python/Transforming Dataframes\|Transforming Dataframes]]                                                                                                           | 2025-09-22 |
+| [[2 Areas/Programming/Python/Aggregating Data frames\|Aggregating Data frames]]                                                                                                           | 2025-09-22 |
+| [[2 Areas/Programming/Python/Slicing and Indexing Dataframe\|Slicing and Indexing Dataframe]]                                                                                             | 2025-09-22 |
+| [[2 Areas/Programming/Python/Creating and Visualizing DataFrames\|Creating and Visualizing DataFrames]]                                                                                   | 2025-09-22 |
+| [[2 Areas/Programming/Python/Introduction to Functions in Python (Python Data Science Toolbox 1)\|Introduction to Functions in Python (Python Data Science Toolbox 1)]]                   | 2025-09-22 |
+| [[0 Inbox/Domain Names, DNS\|Domain Names, DNS]]                                                                                                                                          | 2025-09-17 |
+| [[0 Home/Harit's Garden Homepage\|Harit's Garden Homepage]]                                                                                                                               | 2025-09-15 |
+| [[0 Inbox/Understanding Artificial Intelligence\|Understanding Artificial Intelligence]]                                                                                                  | 2025-09-15 |
+| [[2 Areas/Programming/SAP/Character Strings\|Character Strings]]                                                                                                                          | 2025-09-14 |
+| [[2 Areas/Programming/SAP/SAP ABAP\|SAP ABAP]]                                                                                                                                            | 2025-09-14 |
+| [[2 Areas/Programming/SAP/SAP Installation\|SAP Installation]]                                                                                                                            | 2025-09-14 |
+| [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                                                    | 2025-09-14 |
+| [[2 Areas/Pharmacogenomics/Pharmacogenomics Counseling\|Pharmacogenomics Counseling]]                                                                                                     | 2025-09-14 |
+| [[2 Areas/Pharmacogenomics/Basic Pharmacogenomics Concept\|Basic Pharmacogenomics Concept]]                                                                                               | 2025-09-14 |
+| [[2 Areas/Pharmacogenomics/Community Pharmacogenomics Summary\|Community Pharmacogenomics Summary]]                                                                                       | 2025-09-14 |
+| [[2 Areas/Computer/Command Line Interface in Linux\|Command Line Interface in Linux]]                                                                                                     | 2025-09-14 |
+| [[2 Areas/Programming/Data/Summary Statistics\|Summary Statistics]]                                                                                                                       | 2025-09-14 |
+| [[2 Areas/Programming/Data/Classification\|Classification]]                                                                                                                               | 2025-09-02 |
+| [[2 Areas/Programming/Data/Machine learning with scikit-learn\|Machine learning with scikit-learn]]                                                                                       | 2025-09-02 |
 
 { .block-language-dataview}
