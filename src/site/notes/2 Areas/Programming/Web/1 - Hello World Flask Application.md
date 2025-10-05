@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/web/1-hello-world-flask-application/","created":"2025-10-01T21:19:31.244+07:00","updated":"2025-10-01T21:56:07.582+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/web/1-hello-world-flask-application/","created":"2025-10-01T21:19:31.244+07:00","updated":"2025-10-05T15:06:43.314+07:00"}
 ---
 
 
@@ -10,7 +10,7 @@ app = Flask(__name__)
 from app import routes
 ```
 1. Import Flask Class from flask packages
-2. create "app" as a instance for Flask class. The first argument is the name of the application's module or package (and mostly we use [[2 Areas/Programming/Web/__name__\|__name__]])
+2. create "app" as a instance for Flask class. The first argument is the name of the application's module or package (and mostly we use [[2 Areas/Programming/Web/name variable in Python\|name variable in Python]])
 3. import `route.py` module (import at the bottom to avoid mutual references between two files) -> to make sure that the routes module is loaded
 `app/route.py`
 ```python
