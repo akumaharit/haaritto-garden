@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-home/harit-s-garden-homepage/","tags":["gardenEntry"],"created":"2025-09-02T22:41:52.133+07:00","updated":"2025-10-05T15:07:32.368+07:00"}
+{"dg-publish":true,"permalink":"/0-home/harit-s-garden-homepage/","tags":["gardenEntry"],"created":"2025-09-02T22:41:52.133+07:00","updated":"2025-10-05T21:28:41.818+07:00"}
 ---
 
 
@@ -8,6 +8,7 @@
 ![Pasted image 20250914210241.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020250914210241.png)
 ## **Learn. Create. Grow.** - and spread the positivity vibe ⭐
 > A balanced life isn’t about choosing less; it’s about aligning everything you do with who you are becoming—and in doing so, you light the way for others to grow too.
+
 > The following lists were created using DATAVIEW, Please just **CTRL+K** to search for something (it's a lot better than scrolling here! 😆), trust me!
 
 ## 10 Newest Notes 🆕🔥
