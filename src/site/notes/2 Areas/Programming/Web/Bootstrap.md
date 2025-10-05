@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/web/bootstrap/","created":"2024-10-16T22:02:38.181+07:00","updated":"2025-09-02T22:50:12.584+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/web/bootstrap/","created":"2024-10-16T22:02:38.181+07:00","updated":"2025-10-05T22:15:35.070+07:00"}
 ---
 
+## Old One
 You can easily load bootstrap using CDN
 - a CDN for loading resources like Bootstrap helps improve the performance and reliability of your website by leveraging a network of distributed servers.
 - however, if you use CDN you can't customize the CSS. if you want to customize, you have to download as it will give you SaSS files.

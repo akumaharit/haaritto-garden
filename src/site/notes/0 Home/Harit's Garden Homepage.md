@@ -14,6 +14,7 @@
 ## 10 Newest Notes 🆕🔥
 | File                                                                                                                                                                                         | Created    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/Bootstrap5\|Bootstrap5]]                                                                                                                                                        | 2025-10-05 |
 | [[0 Inbox/Python Requests\|Python Requests]]                                                                                                                                              | 2025-10-05 |
 | [[2 Areas/Programming/Web/python-dotenv\|python-dotenv]]                                                                                                                                  | 2025-10-01 |
 | [[2 Areas/Programming/Web/1 - Hello World Flask Application\|1 - Hello World Flask Application]]                                                                                          | 2025-10-01 |
@@ -23,13 +24,15 @@
 | [[2 Areas/Programming/Web/The Flask Mega Tutorial 2024 - Miguel Grinberg\|The Flask Mega Tutorial 2024 - Miguel Grinberg]]                                                                | 2025-10-01 |
 | [[2 Areas/Programming/Python/Prompt Engineering with the OpenAI API\|Prompt Engineering with the OpenAI API]]                                                                             | 2025-09-29 |
 | [[2 Areas/Self improvement/พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)\|พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)]] | 2025-09-27 |
-| [[2 Areas/Programming/Python/Working with the OpenAI API\|Working with the OpenAI API]]                                                                                                   | 2025-09-27 |
 
 { .block-language-dataview}
 
 ## 30 Latest Modified Notes ⚒️📝
 | File                                                                                                                                                                                         | Modified   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/CS50Web - HTML and CSS\|CS50Web - HTML and CSS]]                                                                                                                                | 2025-10-05 |
+| [[0 Inbox/Bootstrap5\|Bootstrap5]]                                                                                                                                                        | 2025-10-05 |
+| [[2 Areas/Programming/Web/Bootstrap\|Bootstrap]]                                                                                                                                          | 2025-10-05 |
 | [[0 Home/Harit's Garden Homepage\|Harit's Garden Homepage]]                                                                                                                               | 2025-10-05 |
 | [[2 Areas/Programming/Web/name variable in Python\|name variable in Python]]                                                                                                              | 2025-10-05 |
 | [[2 Areas/Programming/Web/1 - Hello World Flask Application\|1 - Hello World Flask Application]]                                                                                          | 2025-10-05 |
@@ -57,8 +60,5 @@
 | [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                                                    | 2025-09-14 |
 | [[2 Areas/Pharmacogenomics/Pharmacogenomics Counseling\|Pharmacogenomics Counseling]]                                                                                                     | 2025-09-14 |
 | [[2 Areas/Pharmacogenomics/Basic Pharmacogenomics Concept\|Basic Pharmacogenomics Concept]]                                                                                               | 2025-09-14 |
-| [[2 Areas/Pharmacogenomics/Community Pharmacogenomics Summary\|Community Pharmacogenomics Summary]]                                                                                       | 2025-09-14 |
-| [[2 Areas/Computer/Command Line Interface in Linux\|Command Line Interface in Linux]]                                                                                                     | 2025-09-14 |
-| [[2 Areas/Programming/Data/Summary Statistics\|Summary Statistics]]                                                                                                                       | 2025-09-14 |
 
 { .block-language-dataview}
