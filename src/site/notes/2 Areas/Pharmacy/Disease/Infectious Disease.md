@@ -1,0 +1,49 @@
+---
+{"dg-publish":true,"permalink":"/2-areas/pharmacy/disease/infectious-disease/","created":"2024-03-03T12:18:53.750+07:00","updated":"2025-10-06T19:45:41.775+07:00"}
+---
+
+## Infectious Disease
+- [[0 Inbox/Infectious Disorder Summary\|Infectious Disorder Summary]]
+- [[2 Areas/University/HIV Infection\|HIV Infection]] (without OIs) (มี OI ออกด้วย [[0 Inbox/Opportunistic infection\|Opportunistic infection]])
+- [[Parasitic Infections\|Parasitic Infections]] (หิด เหา พยาธิ)
+	- [[4 Archives/Helminthic infection\|Helminthic infection]]
+- [[Sexually transmitted diseases & Vaginitis\|Sexually transmitted diseases & Vaginitis]]
+	- [[2 Areas/University/Vaginitis - Leukorhea (ตกขาว)\|Vaginitis - Leukorhea (ตกขาว)]]
+	- [[2 Areas/University/Gonorrhea\|Gonorrhea]]
+	- [[2 Areas/University/Syphilis\|Syphilis]]
+	- [[4 Archives/chancroid\|chancroid]]
+- [[2 Areas/University/Tuberculosis\|Tuberculosis]] ([[0 Inbox/Latent tuberculosis\|Latent tuberculosis]])
+- [[2 Areas/University/Upper Respiratory Tract Infection\|Upper Respiratory Tract Infection]] (common cold, flu, pharyngitis, purulent rhinitis, otitis media, sinusitis)
+- [[2 Areas/University/Lower Urinary Tract Infection\|Lower Urinary Tract Infection]] / [[0 Inbox/Upper Urinary Tract Infection\|Upper Urinary Tract Infection]]
+	- [[Sinusitis\|Sinusitis]]
+- [[การให้วัคซีนตาม EPI\|การให้วัคซีนตาม EPI]]
+- [[Meningitis\|Meningitis]]
+	- Age < 1 month: Ampicillin + Cefotaxime or Ampicillin + Aminoglycosides
+	- more than 1 month: Vancomycin + 3rd generation cephalosporin (Cefotaxime or Ceftriaxone)
+- [[0 Inbox/Endocarditis\|Endocarditis]]
+
+- [[2 Areas/University/Fungal Infections\|Fungal Infections]]
+- [[Gastrointestinal infection\|Gastrointestinal infection]]
+- [[0 Inbox/Intraabdominal infection\|Intraabdominal infection]]
+	- [[Peritonitis\|Peritonitis]]
+- [[0 Inbox/Opportunistic infection\|Opportunistic infection]]
+- [[2 Areas/Pharmacy/Osteomyelitis\|Osteomyelitis]]
+	- Cefazolin
+	- Ceftriaxone
+	- Pen G
+	- Vancomycin
+- [[2 Areas/Pharmacy/Disease/Otitis Media, Otitis Externa\|Otitis Media, Otitis Externa]] (แค่ Otitis Media)
+- [[2 Areas/Pharmacy/Pneumonia\|Pneumonia]]
+- [[Prostatitis\|Prostatitis]]
+- [[Septic arthritis\|Septic arthritis]]
+- [[Skin and soft tissue infections\|Skin and soft tissue infections]]
+	- Dicloxacillin 500 mg po qid ทุกกรณี
+	- Clindamycin if Penicillin qllergy
+	- ถ้า severe -> Cloxacillin, Cefazolin, Clindamycon +- Vancomycin
+	- necrotizing facilitis -> Penicillin G + Clindamycin
+- [[0 Inbox/Surgical prophylaxis\|Surgical prophylaxis]]
+- [[0 Inbox/Tropical infectious diseases\|Tropical infectious diseases]]
+- [[Viral infections\|Viral infections]]
+	- covid-19 -> nucleotide analog -> remdesivir -> 5-10 days
+	- influenza -> neuraminidase inhibitor -> oseltamivir, zanamivvir, peramivir, baloxavir -> at least 5 days
+	- น่าจะต้อง [[2 Areas/University/PTHER I/13 - Viral Hepatitis\|13 - Viral Hepatitis]] ด้วยนะ

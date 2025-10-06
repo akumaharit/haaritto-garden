@@ -1,0 +1,163 @@
+---
+{"dg-publish":true,"permalink":"/0-inbox/musculoskeletal-disorder-summary/","created":"2024-02-18T12:52:32.685+07:00","updated":"2025-10-06T19:48:34.878+07:00"}
+---
+
+**Author:** พอจอ c91 rx80 💘
+**Publish Date:** [[2024-03-17\|2024-03-17]]
+**Note:** โปรดอ่านตามศรัทธา และอย่าโปรดว่ากันถ้ามีสรุปผิด; summary for PC1 only
+Polymyositis, Degenerative joint disease, drug induced bone and joint / rheumatic ไม่ได้ทำสรุปในนี้ SLE ไปทำสรุปใน immunologic disorder
+# Gout
+- Associated Note: [[2 Areas/University/Gout\|Gout]], [[2 Areas/University/NSAIDs\|NSAIDs]], [[2 Areas/University/Uric Lowering Agent\|Uric Lowering Agent]]
+- Etiology: increased uptake, decreased excretion, cell lysis, drug induced
+- Pathophysiology: oversaturation of uric acid (more than 6 female or 7 men) causing formation of monosodium urate crystal -> can deposit in many organ but mostly involve joint (can also cause [[0 Inbox/Nephrolithiasis\|Nephrolithiasis]])
+- Diagnosis: เจาะข้อ
+- ROME Criteria 2 in 4: ใช้วินิจฉัยกรณีเจาะข้อดูไม่ได้
+	- **acute pain** ที่หายเองใน 2 weeks
+	- tophus
+	- elevated uric acid >6 female >7 male
+	- found urate crystal in synovial fluid
+- Criteria for ULT (ACR2020): ICFR
+	- I - Inflammation (flare) more than 2 times
+	- C - chronic / more than 1 tophus
+	- F - Film
+	- R (weak recommendation) - Renal impairment (แบบดูทรงแล้วต้องใช้ diuretics นู่นนี่นาน) ps. ไม่มีอาการไม่ต้องใช้ และตรงนี้เป็นแค่ conditionally recommended (renal impairment คือ < 30)
+- Management:
+	- When to start ULT ([[2 Areas/University/Uric Lowering Agent\|Uric Lowering Agent]])?
+		- ถ้าเข้าเกณฑ์ Criteria ICFR ข้างบน
+		- Thai: เริ่มหลัง inflammation
+		- ACR: เริ่มได้เลยไม่ต้องรอ
+	- Acute Flare:
+		- อย่าลืม **RICE**
+		- No differ in efficacy b/w colchicine, [[2 Areas/University/NSAIDs\|NSAIDs]], [[0 Inbox/Steroid\|Steroid]] -> individualization
+			- THAI -> บอกให้ใช้ colchicine first line
+			- Prednisolone ควรเอาไปใช้สำหรับคนที่ใช้ NSAIDs / Colchicine ไม่ได้
+		- Colchicine 1.2 mg po stat then 0.6 mg next 1 hr ถ้าไม่หาย (max 1.8 mg/day)
+			- adjust dose when eGFR < 30
+			- CYP3A4 Substrate
+			- ADR: Diarrhea, GI Bleeding
+			- prophylaxis: 0.6 mg od
+		- NSAIDs
+		- NPO -> Use IM IA or IV glucocorticoids
+	- Allopurinol
+		- Thai: start หลังหาย flare เพราะกลัวรีบเริ่มแล้วจะหาย flare ช้า / ACR: start ได้เลยไม่้ตองรอหลังหาย flare
+		- Start with 100 mg if eGFR < 60
+		- HLA-B1502 Screening esp in Asia (Universal Marker) -> SJS/TEN
+	- No response to Allopurinol or contraindication to Allopurinol
+		- Switch to Febuxostat (ADR: MACE) -> Probenecid (Inhibit OAT URAT transporter, decrease uric acid reabsorption) -> Pegloticase (Recombinant Uricase)
+# Osteoporosis
+- Associated Note: [[2 Areas/University/Osteoporosis (OP)\|Osteoporosis (OP)]]
+- Etiology: drug induced, age related, calcium malsorption
+- Pathophysiology: loss of calcium from the bone
+- Diagnosis: วัด BMD via DXA, calculate T-score
+	- T Score > -1 ปกติ
+	- T Score -1 to -2.5 Osteopenia
+	- T Score < -2.5 Osteoporosis
+- When to treat? -> Assess Risk and treat according to risk
+	- Mild-mod T-score < -1 to -2.5
+		- Calcium and Vitamin D ให้พอ
+	- High T-Score < 2.5 or -1 to -2.5 but FRAX >= 3%
+		- Calcium and Vitamin D ให้พอ
+		- Thai: Bisphosphonate first line, Denosumab alternative
+	- Very High
+		- Teriparatide first 1-2 years then continue with Bisphosphonate or Denosumab
+		- Romosuzumab 1 year but CI: CVD Disease or Stroke
+- Teriparatide
+	- Recombinant Parathyroid Hormone
+	- ขนาดสูงสลายกระดูก ขนาดต่ำเสริมสร้างกระดูก
+- SERMs
+	- Raloxifene indicated if breast cancer risk OR early menopause (before 45 years old)
+		- Estrogen agonist @ Ovary
+- Hormonal Therapy
+    - ใช้เป็นยาทางเลือกได้ โดยเริ่มไม่เกิน 10 ปีหลังหมดประจำเดือน และอายุไม่เกิน 60 ปี
+    - ใช้ในคนที่หมดประจำเดือนก่อนอายุ 45 ปี จนกว่าจะถึงอายุเฉลี่ยของการหมดประจำเดือน
+- Calcitonin
+	- Not stated in the guideline
+- Calcium Requirement
+{ #2b3214}
+
+	- Age <= 50: 800 mg elemental/day 
+	- Age >= 50 or menopause: 1000 mg elemental/day
+- Calcium
+	- ตาม [[#^2b3214|Requirement]] ข้อข้างบน
+	- ไม่เกิน 1500 mg/day
+	- ไม่เกิน 600 elemental/dose
+	- CPAC #mnemonics 
+		- Calcium Carbonate 40%
+		- Calcium Phosphate tribasic 40% 
+		- Calcium Acetate 30%
+		- Calcium citrate 25%
+- Vitamin D
+	- if OP: keep 25OHD 30-50 ng/ml
+	- Vit D -> ตับ -> 25OHD -> ไต -> 1,25 OHD
+	- ตรวจไม่ได้: supplement เลย 20,000 U /weekly or 800-2000 u/day
+	- Alfacalcidol เติม 1 แล้ว ดังนั้นต้องผ่านตับก่อน
+	   ![Pasted image 20240317173331.png|400](/img/user/3%20Resources/Attachment/Pasted%20image%2020240317173331.png)
+	- Calcifediol เติม 25 แล้วดังนั้นต้องผ่านไตก่อน
+	- Calcitriol = ตัว Active
+
+# Osteoarthritis
+- Associated Note: [[2 Areas/University/Osteoarthritis\|Osteoarthritis]], [[2 Areas/University/PTHER I/21 - OA\|21 - OA]]
+- Etiology: age related, obesity
+- Pathophysiology: cartilage destruction
+- First line: Topical NSAIDs, Oral NSAID
+- Morning Stiffness จะไม่เกิน 30 นาที ต่างจาก RA ที่เป็นนานกว่าเกือบ 2 ชั่วโมง
+- In moderate or sever case: use Intraarticular corticosteroid injections
+- Topical capsaicin may benefit in hand OA
+	- onset 2 weeks
+	- deplete substance-P from sensory neuron
+- X-ray is not mandatory, use to follow-up the progression.
+- Glucosamine -> inhibit enzyme collagenase and a precursor for proteoglycan
+- Chondroitin -> Hyaluronic acid
+- Diacerein -> **Anti-IL-1 (ADR: Diarrhea)**, Do not use in elderly, breastfeeding, anthraquinone allergy, age > 65 or < 15
+- Life Modification สำคัญ เลี่ยงการใช้ข้อหนัก เลี่ยงการแบกของหนัก เลี่ยงการออกกำลังกายหนัก อย่า BMI เกิน
+	- ออกกำลังกายที่สามารถทำได้ เช่น โยคะ ว่ายน้ำ(เพราะว่ายน้ำไม่ได้ใช้ข้อเยอะ ข้อไม่ต้องรับน้ำหนัก)
+	- ประคบอุ่น ประคบเย็น
+
+# Rheumatoid Arthritis
+- Associated Note: [[2 Areas/University/Rheumatoid arthritis\|Rheumatoid arthritis]], [[2 Areas/University/PTHER I/22 - RA\|22 - RA]], [[2 Areas/University/NSAIDs\|NSAIDs]]
+- Etiology: genetic related
+- Pathophysiology: citrullination, auto antibodies production (APCA, RF)
+- Diagnosis
+	- X-Ray as gold standard
+	- synovial fluid shown increased WBC,
+	- RF and APCA may also be found, which can tell disease prognosis
+	- ESR and CRP may be elevated, but not specific.
+- Disease Activity:
+	- ACR/EULAR **โรคสงบหมายถึงจำนวนข้อบวม ≤ 1 ข้อ หรือ SDAI < 3.3**
+	- DAS28 **น้อยกว่า 2.6 สงบ**
+- Treatment
+	- NSAIDs to relief pain, may add tramadol if severe. Use anti-inflammatory dose of NSAIDs
+	- Prednisolone 7.5 mg/day, do not use much as it can cause dependence. Taper or discontinue when the DMARDs start showing effects.
+	- cDMARDs should be started ASAP
+		- Methotrexate
+			- Folic acid synthesis inhibitor (dihydrofolate reductase inhibotor)
+			- Myelosupression
+			- Give folic acid supplement
+			- **Do not use in pregnancy** (teratogenic)
+			- Do not use in CrCl < 30
+			- Monitor Liver function test
+		- Leflunomide
+			- Pyrimidine synthesis inhibitors
+			- Diarrhea, Nausea Vomitting, Hepatic (Jaundice)
+			- Stop if ALT > 3 x ULN
+			- **Do not use in pregnancy,** if wanted, stop for at least 2 year and use cholestyramine to help eliminating the drug
+			- Can be combined with MTX or SFZ
+		- Sulfasalazine
+			- Can be combined with HCQ and MTX, triple therapy (MTX, SFZ, HCQ)
+			- **Do not use in G6PD**
+			- **urine and skin discoloration**
+			- Caution in pregnancy
+		- Hydroxychloroquine
+			- Use in Mild OA ONLY
+			- **Maybe safest in pregnancy**
+			- ADR: Retinal
+	- tsDMARDs
+		- JAK inhibitor (-nib)
+		- serious infections,
+		- do not vaccinate live vaccines during the medications.
+	- bDMARDs
+		- suffix: -mab -cept
+		- 3 month onset
+		- do not use in HF NYHA class 3/4
+		- risk of infection due to immunosupressive -> screen for hepatitis, tuberculin skin test
+		- do not vaccinate live vaccines during the medications.

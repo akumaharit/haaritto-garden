@@ -28,37 +28,37 @@
 { .block-language-dataview}
 
 ## 30 Latest Modified Notes ⚒️📝
-| File                                                                                                                                                                                         | Modified   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[0 Inbox/CS50Web - HTML and CSS\|CS50Web - HTML and CSS]]                                                                                                                                | 2025-10-05 |
-| [[0 Inbox/Bootstrap5\|Bootstrap5]]                                                                                                                                                        | 2025-10-05 |
-| [[2 Areas/Programming/Web/Bootstrap\|Bootstrap]]                                                                                                                                          | 2025-10-05 |
-| [[0 Home/Harit's Garden Homepage\|Harit's Garden Homepage]]                                                                                                                               | 2025-10-05 |
-| [[2 Areas/Programming/Web/name variable in Python\|name variable in Python]]                                                                                                              | 2025-10-05 |
-| [[2 Areas/Programming/Web/1 - Hello World Flask Application\|1 - Hello World Flask Application]]                                                                                          | 2025-10-05 |
-| [[0 Inbox/Internet\|Internet]]                                                                                                                                                            | 2025-10-05 |
-| [[0 Inbox/Python Requests\|Python Requests]]                                                                                                                                              | 2025-10-05 |
-| [[2 Areas/Programming/Python/Python Toolbox (Python Data Science Toolbox 2)\|Python Toolbox (Python Data Science Toolbox 2)]]                                                             | 2025-10-01 |
-| [[2 Areas/Programming/Web/The Flask Mega Tutorial 2024 - Miguel Grinberg\|The Flask Mega Tutorial 2024 - Miguel Grinberg]]                                                                | 2025-10-01 |
-| [[2 Areas/Programming/Web/python-dotenv\|python-dotenv]]                                                                                                                                  | 2025-10-01 |
-| [[2 Areas/Programming/Web/Python Package\|Python Package]]                                                                                                                                | 2025-10-01 |
-| [[2 Areas/Programming/Web/Python virtual environment\|Python virtual environment]]                                                                                                        | 2025-10-01 |
-| [[2 Areas/Programming/Python/Working with the OpenAI API\|Working with the OpenAI API]]                                                                                                   | 2025-09-29 |
-| [[2 Areas/Programming/Python/Prompt Engineering with the OpenAI API\|Prompt Engineering with the OpenAI API]]                                                                             | 2025-09-29 |
-| [[2 Areas/Self improvement/พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)\|พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)]] | 2025-09-27 |
-| [[2 Areas/Content Creation/Learning how to create high quality video or reels for Instagram\|Learning how to create high quality video or reels for Instagram]]                           | 2025-09-25 |
-| [[2 Areas/Programming/Python/Transforming Dataframes\|Transforming Dataframes]]                                                                                                           | 2025-09-22 |
-| [[2 Areas/Programming/Python/Aggregating Data frames\|Aggregating Data frames]]                                                                                                           | 2025-09-22 |
-| [[2 Areas/Programming/Python/Slicing and Indexing Dataframe\|Slicing and Indexing Dataframe]]                                                                                             | 2025-09-22 |
-| [[2 Areas/Programming/Python/Creating and Visualizing DataFrames\|Creating and Visualizing DataFrames]]                                                                                   | 2025-09-22 |
-| [[2 Areas/Programming/Python/Introduction to Functions in Python (Python Data Science Toolbox 1)\|Introduction to Functions in Python (Python Data Science Toolbox 1)]]                   | 2025-09-22 |
-| [[0 Inbox/Domain Names, DNS\|Domain Names, DNS]]                                                                                                                                          | 2025-09-17 |
-| [[0 Inbox/Understanding Artificial Intelligence\|Understanding Artificial Intelligence]]                                                                                                  | 2025-09-15 |
-| [[2 Areas/Programming/SAP/Character Strings\|Character Strings]]                                                                                                                          | 2025-09-14 |
-| [[2 Areas/Programming/SAP/SAP ABAP\|SAP ABAP]]                                                                                                                                            | 2025-09-14 |
-| [[2 Areas/Programming/SAP/SAP Installation\|SAP Installation]]                                                                                                                            | 2025-09-14 |
-| [[2 Areas/Programming/SAP/Learning SAP\|Learning SAP]]                                                                                                                                    | 2025-09-14 |
-| [[2 Areas/Pharmacogenomics/Pharmacogenomics Counseling\|Pharmacogenomics Counseling]]                                                                                                     | 2025-09-14 |
-| [[2 Areas/Pharmacogenomics/Basic Pharmacogenomics Concept\|Basic Pharmacogenomics Concept]]                                                                                               | 2025-09-14 |
+| File                                                                                                                                | Modified   |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/Hematologic Disorder (Summary)\|Hematologic Disorder (Summary)]]                                                       | 2025-10-06 |
+| [[2 Areas/University/PTHER II/Drug-induced blood disorders\|Drug-induced blood disorders]]                                       | 2025-10-06 |
+| [[2 Areas/University/Anemia (CC)\|Anemia (CC)]]                                                                                  | 2025-10-06 |
+| [[2 Areas/University/PTHER II/Anemia (PTHER II)\|Anemia (PTHER II)]]                                                             | 2025-10-06 |
+| [[2 Areas/University/PTHER II/Men Health - Erectile Dysfunction (ED)\|Men Health - Erectile Dysfunction (ED)]]                   | 2025-10-06 |
+| [[2 Areas/University/PTHER II/Women Health - Urinary Incontinence\|Women Health - Urinary Incontinence]]                         | 2025-10-06 |
+| [[2 Areas/University/PTHER II/Men Health - Benigh Prostatic Hyperplasia (BPH)\|Men Health - Benigh Prostatic Hyperplasia (BPH)]] | 2025-10-06 |
+| [[2 Areas/University/PTHER II/Women Health - Menopausal\|Women Health - Menopausal]]                                             | 2025-10-06 |
+| [[2 Areas/University/Contraceptive\|Contraceptive]]                                                                              | 2025-10-06 |
+| [[0 Inbox/Gynecologic Genitourinary (Summary)\|Gynecologic Genitourinary (Summary)]]                                             | 2025-10-06 |
+| [[2 Areas/University/Psoriasis\|Psoriasis]]                                                                                      | 2025-10-06 |
+| [[2 Areas/University/Dermatitis\|Dermatitis]]                                                                                    | 2025-10-06 |
+| [[2 Areas/University/Herpes Simplex\|Herpes Simplex]]                                                                            | 2025-10-06 |
+| [[4 Archives/Acne\|Acne]]                                                                                                        | 2025-10-06 |
+| [[2 Areas/University/Urticaria - Angioedema\|Urticaria - Angioedema]]                                                            | 2025-10-06 |
+| [[2 Areas/University/Asthma & COPD\|Asthma & COPD]]                                                                              | 2025-10-06 |
+| [[2 Areas/University/PTHER I/Inhaler Products\|Inhaler Products]]                                                                | 2025-10-06 |
+| [[2 Areas/University/PTHER I/23 - Drug Induced bone joint & muscle disease\|23 - Drug Induced bone joint & muscle disease]]      | 2025-10-06 |
+| [[2 Areas/University/Gout\|Gout]]                                                                                                | 2025-10-06 |
+| [[2 Areas/University/Rheumatoid arthritis\|Rheumatoid arthritis]]                                                                | 2025-10-06 |
+| [[2 Areas/University/Osteoporosis (OP)\|Osteoporosis (OP)]]                                                                      | 2025-10-06 |
+| [[2 Areas/University/PTHER I/21 - OA\|21 - OA]]                                                                                  | 2025-10-06 |
+| [[2 Areas/University/Osteoarthritis\|Osteoarthritis]]                                                                            | 2025-10-06 |
+| [[0 Inbox/Fluid and Electrolyte Disorder\|Fluid and Electrolyte Disorder]]                                                       | 2025-10-06 |
+| [[0 Inbox/Nephrolithiasis\|Nephrolithiasis]]                                                                                     | 2025-10-06 |
+| [[0 Inbox/Glomerular Disease\|Glomerular Disease]]                                                                               | 2025-10-06 |
+| [[2 Areas/University/PTHER V/Slowing the CKD Progression\|Slowing the CKD Progression]]                                          | 2025-10-06 |
+| [[2 Areas/University/PTHER V/Management of CKD Complications\|Management of CKD Complications]]                                  | 2025-10-06 |
+| [[2 Areas/University/PLE-CC/Acute kidney injury\|Acute kidney injury]]                                                           | 2025-10-06 |
+| [[0 Inbox/Renal Disorders (Summary)\|Renal Disorders (Summary)]]                                                                 | 2025-10-06 |
 
 { .block-language-dataview}

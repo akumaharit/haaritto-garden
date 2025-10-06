@@ -1,0 +1,69 @@
+---
+{"dg-publish":true,"permalink":"/2-areas/university/diarrhea/","created":"2023-02-12T22:00:49.857+07:00","updated":"2025-10-06T19:51:07.892+07:00"}
+---
+
+
+### Diarrhea
+- Classification
+	- Time of onset
+		- Acute = อาการเกิดภายใน 3 วัน มักเกิดจากสารพิษ เชื้อโรค ยา
+		- Chronic = อาการเกิดนานกว่า 30 วัน มักเกิดจากการดำเนินไปของโรค เช่น IBS, DM, Cancer
+- Approach
+	- ดูอาการแสดงเด่น
+		- อาเจียนเด่น
+			- toxin induced food poisoning or viral gastroenteritis
+			- ORT/ORS/IVF
+		- อุจจาระร่วงเด่น
+			- ถ่ายเป็นน้ำ
+				- มีอาการขาดน้ำมั้ย? ถ้ามีให้เกลือแร่ด้วยอย่างรวดเร็ว
+				- ถ้าไม่มีอาการขาดน้ำ ก็กินได้แต่เบา ๆ
+				- ถ้าอาการไม่ดีขึ้นเลย **REFER** ให้ตรวจอุจจาระ/เพาะเชื้ออุจจาระ 
+			- ถ่ายเป็นมูกเลือด
+				- อาจเริ่ม Abs ก่อนในร้านยาได้ถ้ามี systemic symptoms
+				- แต่แนะนำให้คนไข้ไปรพ.เพื่อตรวจหาสาเหตุแบบชัดเจน เพราะอาจไม่ใช่การท้องเสียธรรมดา
+	- Treatment ตาม Infection
+		- Norovirus
+			- 1st cause of viral GE outbreak in adult
+			- 90% of epidemic non-bacterial outbreak of GE around the world
+			- Fecal-oral transmission / asymptomatic persons = major source
+			- Incubation 1-2 day
+			- Self-limited, อาการคล้าย bacterial GE แต่ไม่มี inflammation
+			- Non-enveloped virus, resistance to alcohol.
+		- Rotavirus
+			- พบในเด็กเป็นหลัก ถ่ายเป็นฟอง กลื่นเหม็นเปรี้ยว ไข้สูง
+			- ORS เป็นหลัก
+		- Shigella (บิดไม่มีตัว) ([[2 Areas/University/Medicinal Microbiology#^7b56c0\|Gram Neg Bacilli]])
+			- **Onset 1-7 days**
+			- เกิดจากการทานอาหารไม่สะอาด ปวดตัว ปวดบิด ถ่ายเป็นน้ำ
+			- **Norfloxacin 400 mg 1x2 ac** (Ciprofloxacin 500 mg 1x2) **x 3 d**
+			- Azithromycin 500 mg po pc x 3 d
+		- Salmonella ([[2 Areas/University/Medicinal Microbiology#^7b56c0\|Gram Neg Bacilli]])
+			- **Onset 12-36 hrs**
+			- (โรคไข้**ไทฟอยด์** หรือไข้รากสาดน้อย เป็นโรคติดเชื้อแบคทีเรียชนิดหนึ่ง ซึ่งมีชื่อว่า ซัลโมเนลล่า ไทฟี่ (**Salmonella typhi**))
+			- เกิดจากการทานไข่ ไก่ นมดิบ อาการคล้าย shigella แต่หนักกว่า
+				- **Norfloxacin 400 mg 1x2 ac** (Ciprofloxacin 500 mg 1x2 pc) **x 5-7 d**
+				- Azithromycin 500 mg po pc x 5-7 d
+		- Entamoeba histolytica (บิดมีตัว)
+			- Metronidazole 500-750 mg tid po pc 5-10 d
+		- Vibrio cholera
+			- ถ่ายเป็นน้ำรุนแรง
+		- Clostridium difficile ([[2 Areas/University/Medicinal Microbiology#^cd224c\|Gram Pos Bacilli]])
+			- มักเกิดจากการใช้ยาฆ่าเชื้อเป็นระยะเวลานาน
+	- ยาอื่น ๆ
+		- ยาหยุดถ่าย ต้องมั่นใจว่าไม่ได้เป็นการท้องเสียแบบติดเชื้อ
+			- opioid **agonist** ยับยั้งการเคลื่อนไหวของลำไส้
+			- diphenoxylate
+				- ![Pasted image 20221213171607.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020221213171607.png)
+				- Diphenoxylate is an opioid agonist that **acts on the presynaptic opioid receptors (predominantly mu receptors) in the enteric nervous system**.
+			- loperamide
+				- 4 mg stat ตามด้วย 2 mg ทุกครั้งที่ถ่าย max 16mg/dose
+		- Bismuth subsalicylate
+			- มักเอามาใช้เวลาที่ ORS เอาไม่อยู่
+			- ใช้กับ traveler diarrhea ได้อยู่
+			- antisecretory + anti-inflammatory + antibacterial
+			- ADR: ถ่ายดำ ลิ้นดำ
+		- Absorbent
+			- activated charcoal
+			- octahedral smectite
+		- Probiotic
+			- เป็น microflora ช่วยให้ลำไส้ทำฃานปกติ ลดความรุนแรง ลดระยะเวลาท้องเสีย มักใช้ในเด็ก

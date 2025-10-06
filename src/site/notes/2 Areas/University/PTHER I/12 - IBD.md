@@ -1,0 +1,72 @@
+---
+{"dg-publish":true,"permalink":"/2-areas/university/pther-i/12-ibd/","created":"2023-03-05T16:09:39.852+07:00","updated":"2025-10-06T19:51:29.962+07:00"}
+---
+
+> [!warning] IBD ไม่ใช่ IBS
+> IBS เป็น functional ต่างที่ IBD ที่พยาธิสภาพชัดเจน
+- **Crohn's Disease vs Ulcerative Colitis**
+	- UC จำว่า "เอาสิ" (Ulc.. เอาเซ้อ) = S&S เด่นตรง rectum เข้าไปเรื่อย ๆ แต่ไม่ลึกมาก ต่างจาก CD ที่กระจัดกระจาย
+	- เพราะ **CD กระจัดกระจาย ดังนั้น systemic symptoms จึงเด่นกว่ามาก ๆ และยังมีเรื่อง abdominal ที่เด่นกว่าอีก** เช่น tenderness, pain ฯลฯ รวมถึงไข้อีกด้วย **และยังมี aphthous or linear ulcers อีก**
+	- UC จะค่อนข้างชัดเจน (and common) ว่าเป็นที่ rectum และการกระจายจะเป็นแบบ continuous
+- Epidemiology
+	- พบเยอในตะวันตก
+	- UC พบได้บ่อยกว่า CD แต่ต่างกันนิดเดียว
+- Pathophysiology (หลากหลาย, in short;)
+	- microbiome เสียสมดุล
+	- การรับประทานอาหาร FODMAPs
+	- Psychological Stress
+	- **TNF-a** ที่สูง ทำให้ th1 th2 dysfunction
+- **Severity** #pther1recall
+	- Mild 
+		- ถ่ายน้อยกว่าวันละ 4 ครั้ง
+		- ESR ปกติ (< 30 mm/h)
+	- Moderate
+		- ถ่าย**มากกว่า**วันละ 4 ครั้ง
+		- systemic เล็กน้อย
+	- Severe
+		- ถ่ายเป็น**เลือด** มากกว่า 6 ครั้ง #pther1recall
+		- มีอาการเชิงระบบ
+	- Fulminant
+		- ถ่ายเป็นเลือด มากกว่า 10 ครั้ง
+		- กดเจ็บ
+		- S&S of **toxic megacolon** -> เนื้อเยื่อขยายตัว, dilated colon
+- Extraintestinal manifestations เด่นใน CD เช่น Uveitis, Scleritis, Episcleritis ปวดข้อ ปวดเข่าก็พบได้เช่นกัน
+- Goal of Therapy:
+	- ลดความรุนแรง
+	- ป้องกันการเกิดภาวะะแทรกซ้อน
+	- ลดความถี่ในการกำเริบ
+- Induction and Maintenance
+	- Steroid and cyclosporine (calcineurin inhibitor) ใช้ช่วง induction เท่านั้น! นอกนั้นใช้ได้ทั้ง induction & maintenance
+- การรักษาโดยการใช้ยา
+	- **Salicylate derivatives** ใช้ได้ทั้ง induction and maintenance
+		- ตัว active คือ 5-aminosalicylic acid (mesalamine) มีผลข้างเคียงสำคัญได้แก่ **คลื่นไส้ อาเจียน ปวดศรีษะ เบื่ออาหาร**
+		- Sulfasalazine (sulfapyridine + 5-ASA)
+			- ระวังผมร่วง ผื่นแพ้ รวมถึง สารคัดหลั่งเปลี่ยนสีส้ม (น้ำตา เหงื่อ ปัสสาวะ)
+			- ระวัง anemia **thrombocytopenia** #pther1recall 
+			- ระวังในคนแพ้ sulfa
+			- sulfapyridine เป็น antibiotics แต่เรานำมาผสมเพื่อใช้เป็น carriers มากกว่า เนื่องจากตัว 5-ASA ดูดซึมได้ค่อนข้างน้อย
+		- ปัจจุบันเรามี mesalamine เดี่ยว ทั้งในรูปของ suppository, enema, oral
+	- Corticosteroids มักจะใช้ร่วมกับยาตัวอื่นด้วยเสมอ
+		- Prednisolone ใช้ได้แค่ใน severe ปกติจะใช้ประมาณ 40-60 mg/d ประมาณ 2-3 วีค
+		- Budesonide ใช้ได้ทั้ง mild-mod-severe
+	- Thiopurine (Azathioprine; pro-drug)
+		- ต้องทดสอบ TPMT
+	- **Anti-TNF** #pther1recall
+		- **ห้ามใช้ใน toxic megacolon และต้องเช็ค lab TPS, hepatitis**
+	- Anti-integrin, IL-12, IL-23 inhibitor, JAK inhibitor, Calcineurin inhibitor ใช้ในเคสที่ไม่ตอบสนองต่อ steroid และจะใช้แค่ induction เพราะ S/E ค่อนข้างเยอะมาก ๆ
+- แนวทางการรักษา
+	- จุดสังเกต: ใน fulminant จะไปใช้พวก **methyprednisolone / hydrocortisone ก่อน ถ้าหายค่อยลดเป็น prednisolone**
+	- ใน Cohn Disease ถ้า Severe or Mod อาจใช้ Prednisolone ร่วมกับ TNF-a inhibitor หรือ immunosupressive ไปเลย
+	- ![Pasted image 20230305193915.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020230305193915.png)
+	- ![Pasted image 20230305193929.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020230305193929.png)
+- ปัญหาโภชนาการในคนไข้ IBD
+	- เนื่องจากคนไข้มี **IL-6 และ TNF-a ที่สูงหรือเยอะผิดปกติ จึงทำให้เกิดการสูญเสียโปรตีน** และ muscle wasting ได้
+	- คนไข้กินไรไม่ค่อยได้ จึงปวดท้อง อีกทั้งดูดซึมสารอาหารได้น้อยอีกด้วย มีเบื่ออาหารร่วมด้วย
+- การรักษาโดยไม่ใช้ยา
+	- **การผ่าตัด ใช้ในคนที่ไม่ตอบสนอง**
+	- การดูแลด้านโภชนาการ, FODMAP / probiotics ต่าง ๆ 
+		- FODMAPs = Fermentable oligo,di and monosacharides and polyols 
+	- สร้างเสริมสมดุล gut microbiota และเพิ่ม short chain fatty acid โดย probiotics และ soluble fiber
+	- แพทย์ทางเลือก และการให้ความรู้
+	- เลี่ยงอาหารที่ระบุได้ชัดเจนแล้วว่ากระตุ้นตัวโรค แต่ก็ระวัง malnutrition ดังนั้นเลี่ยงแค่ที่มั่นใจเท่านั้น
+		- เช่น FODMAPs, sulfur/sulfate, เครื่องดื่ม alcohol, นม (lactose), เนื้อแดง

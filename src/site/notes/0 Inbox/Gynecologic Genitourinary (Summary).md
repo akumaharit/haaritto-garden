@@ -1,0 +1,172 @@
+---
+{"dg-publish":true,"permalink":"/0-inbox/gynecologic-genitourinary-summary/","created":"2024-03-14T20:30:12.130+07:00","updated":"2025-10-06T19:53:08.782+07:00"}
+---
+
+# Oral Contraceptive
+
+# BPH
+- [[2 Areas/University/PTHER II/Men Health - Benigh Prostatic Hyperplasia (BPH)\|Men Health - Benigh Prostatic Hyperplasia (BPH)]]
+- Etiology: involvement of intraprostatic dihydrotestosterone (DHT) and Type II 5a-reductase
+- Pathophysiology: 
+- Diagnosis: 
+	- Digital rectal examination, prostate gland ปกติจะ 20 g
+![Pharmacological in Urinary System.png](/img/user/3%20Resources/Attachment/Pharmacological%20in%20Urinary%20System.png)
+- ปกติแล้วเวลามีปัสสาวะมา จะมี M3 receptor กระตุ้นให้เกิดการบีบตัวของ urinary bladder ส่วน b3 จะเป็นตัวทำให้เกิดการคลายตัว
+- alpha1 จะเป็น receptor ตรง urethra การกระตุ้นทำให้เกิดการบีบตัว ปัสสาวะก็จะไม่ออก
+- **Two Factors**
+	- Static Factor
+		- Epithelial -> มี Androgen ทำให้เกิดการขยายของต่อม Prostate
+		- Stromal -> มี Estrogen ทำให้เกิดการขยายของต่อม Prostate (ผู้ชายมี estrogen จาก androgen --aromatase@lipotissue--> Estrogen)
+	- Dynamic Factor
+		- ภาวะใด ๆ ที่ทำให้สมดุล M3, B3 and alpha1 เสียสมดุลไป เช่น ยา
+		- Anticholinergics
+			- 1st gen antihistamine
+			- [[0 Inbox/Antidepressant\|Antidepressant]] เช่น TCA หรือ Paroxetine
+			- Antispasmodics ทั้งหลาย
+			- [[0 Inbox/Antipsychotics\|Antipsychotics]] เช่น Chlorpromazine, Clozapine
+		- Alpha-agonist oral/intranasal
+			- Pseudoephedrine, Ephedrine, Phenylephrine
+- Obstructive Symptoms:
+	- Reduced stream flow
+	- Enlarged prostate d/t static factor causing obstructive symptoms
+	- alpha1 hyperstimulation
+- Irritative Symptoms
+	- Bladder muscle hypertrophy
+	- M3 hyperstimulation or b3 hyperinhibition (เสียสมดุล)
+- Both obstructive (voiding) and irritative (storage) are considered as Lower urinary tract symptoms (LUTS) that prompt the require of treatment
+	- hesistancy กว่าจะฉี่ออก ต้องรอนาน
+	- straining ต้องเบ่งปัสสาวะ
+	- weak flow ไหลเบา -> ฉี่ไม่พุ่ง
+	- terminal dribbling ฉี่แล้วมีหยดออกมา
+	- retention ฉี่แล้วรู้สึกออกมาไม่หมด
+	- frequency ปัสสาวะบ่อย
+	- urgency ปวดปัสสาวะตลอดเวลา
+	- nocturia ปัสสาวะกลางคืน
+- DDx
+	- prostate cancer -> PSA normal < 1.4 mcg/L
+	- UTI -> UA
+- AUA Symptom Scores (AUA Guideline)
+	- Mild if <= 7 -> Asymptomatic, Postvoid residual (PVR) 25-50ml (ควร 0), Peak urinary flow rate < 10ml/s (ควร > 10 ml/s)
+	- Mod if 8-19 -> above and obstructive or irritative symptoms of LUTS
+	- Severe if >= 20 -> above and complications occurred (hematuria, painful, recurrent UTI, AKI, bladder stone, bladder diverticula)
+- Treatment
+	- Mild -> watchful waiting
+	- Mod ->
+		- ED -> alpha-blocker and/or PDE inhibitor
+		- Small and low PSA -> alpha-blocker
+		- Large (40 g) and high PSA -> alpha-blocker and/or 5ARI
+		- **Irritative** Predominate -> alpha-blocker + anticholinergics
+	- Severe -> complication -> surgery
+- Pharmacotherapy
+	- Alpha-blocker
+		- block alpha1 receptor @ urethra -> dilating the urethra ให้มันปรู๊ดออกมาได้
+		- increase flow rate, reduce PVR
+		- does not decrease PSA or prostate gland size
+		- Selective Alpha1A = Tamsulosin
+		- Non-selective = Alfuzosin, Doxazosin, Terazosin and Prazosin (แย่สุด)
+		- CYP3A4 Substrate, except Terazosin only hydrolysis
+		- Alfuzosin ทานพร้อมอาหาร
+		- ADR and CI: orthostatic hypotension, poorly uncontrolled angina, hypotension, uncontrolled arythmias
+	- 5-Alpha reductase inhibitor
+		- เชื่อว่า testosterone ลดลง ทำให้การทดงานของ 5-alpha reductase type 2 ทำงานมากขึ้น มีปริมาณ DHT มากขึ้นเกิดการกระตุ้นให้ epithelial cell ขยาย (enzyme นี้มีในผม จึงใช้แก้ alopecia ได้)
+		- considered as second-line for people who can't use alpha-blocker or don't respond to alpha-blocker
+		- CYP3A4 ทั้งสองตัว
+		- 6-12 months for effect to be shown, if 6 month no decrease of PSA consider prostate cancer
+		- Dutasteride inhibit type 1 and 2 alpha reductase (onset 3 month, faster onset)
+		- Finasteride inhibit type 2 alpha reductase
+		- ADR: sexual dysfunction (higher than alpha-blocker)
+	- PDE Inhibitor
+		- Can relax prostate muscle
+		- Tadalafil
+	- Anticholinergics
+		- Inhibit M3 at detrusor muscle, causing relaxation, decreasing frequency and urgency.
+		- irritative เด่น
+		- Oxybutynin 3A4
+		- Tolterodine 2D6
+		- Trospium Hydrolysis only
+		- ADR: anticholinergics effects
+
+
+# Erectile Dysfunction
+- Related Note: [[2 Areas/University/PTHER II/Men Health - Erectile Dysfunction (ED)\|Men Health - Erectile Dysfunction (ED)]]
+- loss of penile erection for at least 3 months
+- Etiology:
+	- Hormonal -> Testosterone 
+		- เชื่อว่า Testosterones ลดลงทำให้ 5a-reductase type 2 ทำงานมากขึ้น เกิดการสร้าง DHT นำไปสู่การหัวล้าน
+		- การขาด testosterone ทำให้ libido ลดลง
+	- Hemodynamic
+		- Parasympathetic cause erection (Acetylcholine) --> smooth muscle relaxation ทำให้เลือดไหลเข้ามาได้แล้วมันตั้ง
+		- Norepinephrine cause Flaccid
+	- Psychogenic
+- Drug Induced
+	- CNS Depressant -> suppress perception of psychogenic stimuli
+	- Anticholinergics
+	- Antihypertensive agent -> ลด blood flow
+- IEF (International index of erectile dysfunction) Scoring ยิ่งต่ำยิ่งแย่
+- ADAM Questionnaire -> บ่งบอกภาวะพร่อง Testosterone
+- PDE-5 -> reduce **destruction of cGMP** which cause smooth muscle relaxation
+- PDE-6 -> found in rod and cone cell, inhibition cause blurry vision
+- PDE-11 -> found in skeletal muscle, inhibition cause myalgia
+- PDE-5 inhibitors
+	- 3A4 ทุกตัว ระวังการใช้ร่วม Nitrate (Nitrate increase cGMP ดังนั้นถ้ากิน PDE-5i ไปอีกจะยิ่งอันตราย เกิด severe hypotension)
+	- Sildenafil
+		- Inhibit both PDE5 and PDE6
+		- Nitrate -> 24 hr
+		- headache, dyspepsia, dizziness, nasal congestion, vascular relxation
+		- blurred vision found in 200 mg (40-50% incidence) แยกสีน้ำเงินกับสีเขียวไม่ได้
+		- Priapism แข็งตัวเกิน 4 ชม
+		- Nonarteritic anterior ischemic optic neuropathy (NAION) ถ้าเกิดให้พบแพทย์ทันที ตาบอดข้างนึง อาจ irreversible
+	- Tadalafil
+		- Inhibit both PDE5 and PDE11
+		- Nitrate -> 48 hr
+		- Lower bavck and limb muscle pain
+- Hormonal Replacement
+	- Testosterone undecanoate as first-line กินตอนเช้า
+	- or IM Testosterone ก็ได้
+# Hormonal replacement therapy - Menopausal
+- Related Note: [[2 Areas/University/PTHER II/Women Health - Menopausal\|Women Health - Menopausal]]
+- Definition: No menstruations for 1 year
+	- First 4 year after last menstruations is called as early post menopausal
+- Etiology: ไม่มีไข่ ไม่มีตัวผลิข estradiol or progesterone ทำให้ไม่มีตัวไปกด FSH ถ้าเจาะ FSH ก็จะสูง
+- Pathophysiology
+	- Genitourinary syndrome of menopause -> Urgency, UTI, lube แห้ง sex ไม่สนุก
+	- Skin Change
+	- Metabolic Change
+- Mild vulvovaginal (GSM): topical estrogen
+- Moderate to severe vulvovaginal (GSM): อาจ MHT ถ้าใช้ยาทาไม่ดีขึ้น
+- Mild vasomotor: non pharmaco
+- Moderate to severe vasomotor syndrome **OR** vasomotor + vulvovaginal symptoms:
+	- MHT (อย่าลืม contraindication of contraceptive)
+	- เน้น: MHT ไม่ใช่พร่่ำเพรื่อเพราะมันเพิ่ม risk of CVD
+- Treatment:
+	- Estrogen
+		- Topical -> Vulvovaginal Symptoms
+		- Systemic -> Moderare to Severe Vasomotor symptoms or Vasomotor + Vulvovaginal Symptoms
+			- ใช้ EE ตามปกติ
+			- จะมีแบบ Transdermal ด้วย
+	- Progestogens ใช้เพื่อป้องกัน Endometrial hyperplasia เพราะ Estrogen ทำให้มดลูกหนาตัว เราจะใช้ก็ต่อเมื่อ "คนไข้ยังมีมดลูก/รังไข่มั้ย"
+- SERMs:
+	- Tamoxifen and Raloxifene no role in menopausal
+# Urinary Incontinence (Women)
+- Related Note: [[2 Areas/University/PTHER II/Women Health - Urinary Incontinence\|Women Health - Urinary Incontinence]]
+- Etiology: loss of bladdder control, maybe age related, may secondary from other conditions or induced from certain conditions such as drug induced.
+- First-line ของทุกอย่างคือ! **Non-pharmacological**
+- Pathophysiology: 
+	- 3 ตัว M3 b3 a1 คล้ายของผู้ชายเลย
+	- M3 Detrusor muscle contraction
+	- B3 detrusor muscle relaxation
+	- a1 urethra contraction (bladder outlet)
+- ปัสสาวะเล็ด (SUI) Stress Urinary Incontinence
+	- Urethral closure ผิดไม่ดี หรือยาบางอย่างไปกระตุ้นให้ยิ่งแย่ เช่น alpha blocker or AChEi, ACEi (ไอทำให้เพิ่มแรงดันในช่องท้อง)
+	- Mostly non-pharmacological
+	- Alpha-agonist ใช้ได้ แต่ไม่แนะนำเนื่องจากกดหลอดเลือด ในผู้ชายก็ใช้ได้แต่มันกดหลอดเลือดจึงไม่แนะนำ
+	- Estrogen, SNRI ใช้ได้
+- ปัสสาวะราด (UUI) Bladder overactivity
+	- ส่วนใหญ่มาจาก overactivity of bladder เช่น diuretics, caffeine, alcohol, AChEi
+	- บีบตัวเยอะโดยที่เราไม่ต้องการ
+	- First-line ดั้งเดิม: Estrogen
+	- First-Line: Oxybutynin แต่แพง
+	- May use Mirabegron (beta-3 agonist)
+	- ใช้ Anticholinergics ลดอาการ
+- ปัสสาวะล้น (Overflow incontinence, chronic urinary retention)
+	- Secondary from other conditions

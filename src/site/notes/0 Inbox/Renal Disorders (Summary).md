@@ -1,0 +1,241 @@
+---
+{"dg-publish":true,"permalink":"/0-inbox/renal-disorders-summary/","tags":["Summary"],"created":"2024-02-04T19:46:48.748+07:00","updated":"2025-10-06T19:51:37.275+07:00"}
+---
+
+**Author:** พอจอ c91 rx80 💘
+**Publish Date:**
+**Note:** โปรดอ่านตามศรัทธา และอย่าโปรดว่ากันถ้ามีสรุปผิด; summary for PC1 only
+[[0 Inbox/Fluid and Electrolyte Disorder\|Fluid and Electrolyte Disorder]] ไม่ได้ทำเพราะขี้เกียจ
+
+# Note from QBank Practice
+- [x] ทวน S/E EPO
+- [x] ทวนวิธีการให้ EPO
+- [ ] ทวน drug induced hyperkalemia
+- [x] ทวนสูตร cockcroft
+- [x] ทวนยากดภูมิ
+- [ ] ทวนสารอาหารที่ต้องเลี่ยงในคนที่เป้นโรคไต
+
+# Nephrolithiasis
+EAU Guideline on Urolithiasis 2023
+- U/S or KUB radiography as standard diagnosis tools
+- Pain Relief with NSAIDs (first line) +- Paracetamol
+	- Ketorolac (max 90mg/day if < 50 kg then 60 mg/day)
+	- NSAIDs no problem in people with normal renal function!
+- Opioids
+	- No recommendation
+- Antispasmodics
+	- ไม่ช่วย
+- Medical Expulsive therapy
+	- Alpha-blocker (class effect) for distal ureteral stones > 5mm (ถ้าขนาดเล็กกว่านี้ benefit ไม่ชัด)
+- Oral Chemolysis
+	- Uric acid stone -> Sodium bicarbonate ได้ ปรับ urinary ph เป็น 7.0-7.2
+	- ถ้าก้อน > 8 mm ให้ใช้ Tamsulosin ร่วมด้วยจะดีกว่าการใช้ยาตัวเดียว
+	- Pt monitor ตัวเองด้วย urine dipstick
+- Non-pharmacotherapy
+	- Extracorporeal shockway lithotripsy
+	- Percutaneous nephrolithotomy
+
+# Acute Kidney Injury
+- *Quickly* rescue renal
+- กลุ่มอาการต่าง ๆ ที่เกิดจากการที่ไตผิดปกติ เรียกรวม ๆ ว่า Nephrotic Syndrome
+- Diagnosis #mnemonics 
+	- SCr > 0.3 mg/dl ใน 48 ชม
+	- SCr 1.5 times ใน 7 วันหรือคาดว่าจะเกิดใน 7 วัน
+	- Urine Volume < 0.5 ml/kg/hr in 6 hr
+- NGAL 2-6 hr, Cystatin C 12 hr, SCr 24 hr
+- AKI <= 7 days, AKD < 3 mo + eGFR <  60 and structural abnormalities, CKD > 3 mo + eGFR < 60 and structural abnormalities
+- Differentiating cause of AKI
+	- Pre-renal
+		- Hyalin casts (บ่งบอกถึง dehydration)
+		- No urinary WBC, RBC
+		- BUN/Scr > 20 (บ่งบอกว่ามันเข้าไปในไตไม่ได้ BUN คั่งเยอะ)
+		- FE Na < 1%
+	- Intrinsic
+		- Granular casts + Cellular debris
+		- Urinary WBC and RBC 2-4+
+		- BUN/Scr 15
+		- Fe Na > 2%
+	- Post-renal
+		- Cellular debris
+		- Might have urinary WBC and RBC
+		- BUN/Scr 15
+- Common Cause of AKI (Drug)
+	- Pre-renal
+		- NSAIDs, ACEi/ARB, Radiocontrast, Vasopressor
+	- Intrinsic
+		- ATN
+			- Aminoglycosides
+			- **Amphotericin B**
+			- Tenofovir
+			- Rhabdomyolysis  
+			- Aminoglycosides  
+			- **Cisplatin**  
+			- Radiocontrast agent  
+			- Methotrexate
+		- AIN
+			- Drug-hypersensitivity
+		- Glomerulonephritis
+			- Drug-hypersenstivity -> จะพบ Heavy proteinuria (hypoalbuminemia)
+			- Nephrotic syndrome
+	- Post-renal
+		- [[0 Inbox/Nephrolithiasis\|Nephrolithiasis]]
+			- MTX, Sulfadiazine, SMX, Acyclovir, Amoxicillin
+- Indication for RRT
+	- A (Acid base abnormalities) : Met acidosis esp pH < 7.2
+	- Electrolyte Imbalance (Severe hyperkalemia and or hypermagnesemia)
+	- Intoxication: Salicylates, Lithium, Methanol, Ethylene glycol, Theophylline, Phenobarbital
+	- Overload (Fluid overload esp. in pulmonary edema unersponsive to diuretics)
+	- Uremia (uremia or associated complication such as encephalopathy)
+- What dialysis to use? Depend on physician
+	- Intermittent Hemodialysis IHD (frequently used)
+	- CRRT is preferred in hemodynamically stable
+- Acid-Base Management | [[0 Inbox/Acid-Base Disorder\|Acid-Base Disorder]]
+	- AG = Na - HCO3 - Cl (N: 5-12) ถ้าสูงอาจ Metabolic Acidosis
+	- Mild-Moderate (pH > 7.2, HCO3 > 8-12) รักษาแบบ [[2 Areas/University/PTHER V/Management of CKD Complications\|Management of CKD Complications]] ไม่มี **role of sodium bicarbonate!!!**
+	- **Severe (pH < 7.2, HCO3 < 8-12)** -> may prefer RRT
+		- ใช้ NaHCO3 IV โดยให้ 1/2 IV (drip in 1-2 min) แล้วอีก 24 ชมให้ 1/2 ที่เหลือ
+			- reassess in 2 hrs
+			- initial 89.2 - 100 mEq once in 1-2 min
+		- **HCO3 Deficit = 0.5 or 0.6 x BW x (HC03 target - HCO3 serum)** #formula 
+		- โดย 7.5% NaHCO3 50 ml จะมี NaHCO3 44.6 mEq
+- Common cause of AKI: THINK SHTOP
+	- Sepsis
+	- Hypovolemia
+	- Toxicity
+	- Obstruction
+	- Parenchymal Disease
+- Treatment:
+	- Hydration (if hypo)
+		- Holliday Segar (100ml/kg first 10 kg) + 50ml/kg second 10 kg + 20ml/kg remaing wt + น้ำที่เสียไป
+		- Rate: 4 ml/kg/hr first 10 kg + 2 ml/kg/hr second 10 kg + 1 ml/kg/hr remaining wt
+		- ไม่ใช้ในเด็ก < 14 d
+	- Loop diuretics (if overload)
+		- Furosemide
+		- Add Thiazide (to prevent resistance at distal)
+		- Add spironolactone (amiloride, tramterene, sprinolactone, to prevent resistant at collecting drug)
+- Preventing radiocontrast induced AKI:
+	- May give Sodium bicarbonate before and after procedure, or give normal saline
+	- No role of N-acetylcysteine
+- Glycemic Goal
+	- 140-180 mg/dl during AKI
+	- critically ill: > 180 mg/dl
+- AKI Staging  #mnemonics 
+
+| Stage   | Urine Output                            | KDIGO 2012 SCr (Revised personal opinion)                        |
+| ------- | --------------------------------------- | ---------------------------------------------------------------- |
+| Stage 1 | < 0.5 ml/kg/hr more than 6 hr           | SCr > 0.3 mg/dl in 48 hrs OR 1.5 times - 1.9 times from baseline |
+| Stage 2 | < 0.5 ml/kg/hr more than 12 hr          | 2.0 - 2.99 times from baseline                                   |
+| Stage 3 | < 0.3 ml/kg/hr (Anuria) more than 12 hr | > 3 times from baseline <br>OR RTT<br>OR SCr > 4.0               |
+
+# Chronic Kidney Disease
+- Definition: eGFR < 60 and Structural Damage, more than 3 months
+- Complication of late stage CKD
+	- Hypocalemia
+	- Hyperphosphatemia
+	- HyperPTH
+	- Hyperpotassium
+	- Leg Cramping (Magnesium มันออก)
+	- Anemia -> Fatigue
+	- Nocturia
+	- Metabolic Acidosis
+- [[2 Areas/University/Hypertension\|Hypertension]]
+	- Goal < 120 mmHg พบว่าลด all-cause mortality แต่ไม่ลด CVD Event
+		- อันเดิม KDIGO 2012 <140
+		- ของไทย 2565 แนะนำ <140/90
+		- **ทั้งไทยทั้ง KDIGO เก่า:** ถ้าหาก Kidney Transplant or AER > 30 ให้ **SBP < 130**
+	- Start RASi หาก AER > 300 แต่ถ้าหากมีเบาหวานร่วมด้วย 30-300 ก็ควรเริ่มแล้ว
+		- ถ้าหาก 30-300 ยังไม่มีเบาหวาน อันนี้แค่ระดับ suggestion
+- [[0 Inbox/Fluid and Electrolyte Disorder#Hyperkalemia\|Hyperkalemia]]
+	- Sodium polystyrene sulfonate
+	- Calcium polystyrene sulfonate
+	- TBW เวลาคำนวณให้ชาย 0.6 หญิง 0.5
+- [[2 Areas/University/PTHER II/Anemia (PTHER II)\|Anemia (PTHER II)]] or [[2 Areas/University/Anemia (CC)\|Anemia (CC)]]
+	- Hb < 13 in male / < 12 in female
+	- Normocytic anemia
+	- Goal: TSAT > 20% และ Ferritin > 100 ng/ml (hemodialysis > 200 ng/dl)
+	- เกณฑ์ IV Iron: Ferritin < 500 และ TSAT < 30%
+	- ถ้าขาดทั้ง ferritin & TSAT = absolute iron def
+	- ถ้าขาดแค่ TSAT (มีในคลังแต่เอามาใช้ไม่ได้) = functional def
+	- Oral Iron
+		- Elemental iron: Ferrous fumarate > Ferrous sulfate > Ferrous gluconate #mnemonics 
+			- Ferrous fumarate -> 33%
+			- Ferrous sulfate -> 20%
+			- Ferrous gluconate -> 11.6%
+		- iron จะให้ **elemental 200mg/day**
+		- vitC เพิ่มการดูดซึม ให้ไม่เกิน 300 mg/d
+		- ไม่ใช้แบบ enteric เพราะดูดซึมได้ในกรด
+	- EPO
+		- ปกติจะให้แบบ SC เพราะดีกว่า IV --> ใช้ขนาดยาต่ำกว่า และทำให้เข้า target ได้เหมือนกับ IV
+		- ปกติจะให้แบ่งเป็น 2-3 ครั้งต่อสัปดาห์ ถ้า SC: 80-120 unit/kg/wk 2-3 doses/week
+			- criteria for EPO
+				- **if Hb > 10 mg/dl ไม่เริ่มยา**
+				- เป้าหมาย **11.5 mg/dl** ไม่สูงกว่า 13 mg/dl
+				- onset 2-4 weeks full effect
+				- SC > IV
+				- dose ที่ใช้ในการ correct จะสูงกว่า maintenance ประมาณ 20-30%
+			- EPO ADR
+				- Hyperkalemia
+				- **Pure Red Cell Anemia**
+				- Hypertension
+- [[2 Areas/University/Dyslipidemia\|Dyslipidemia]]
+- [[2 Areas/University/Diuretics\|Diuretics]] (Hypervolemia)
+	- แรกเริ่มใช้ **Thiazide 25-50 mg od or bid** (higher dose than [[2 Areas/University/Hypertension\|Hypertension]])
+	- ใช้เพื่อป้องกันการไปกดหัวใจมากกว่า ป้องกันการเกิด volume overload 
+	- **ใช้ Furosemide ถ้า eGFR < 30**
+	- Furosemide รบกวน electrolyte imbalance > thiazide แต่ metabolic effects น้อยกว่า!
+	- Thiazide-like = Indapamide, chlorthalidone แค่มี metabolic S/E น้อยกว่าเฉย ๆ
+- Serum Phosphate
+	- N: 2.7-4.6
+	- **ถ้า Ca x P มากกว่า 55** ให้รักษาเพราะเสี่ยง calcification
+	- First Line = Calcium carbonate (max elemental 1500mg/day) or Sevelamer carbonate
+	- ใช้ Phosphate Binder
+		- Antacid
+			- ถ้ามี Aluminum จะทำให้เกิด Blood/Brain/Bone complication ได้ ได้แก่ microcytic anemia, encephalopathy, adynamic bone disease
+		- Resins
+			- Sevelamer carbonate ไม่ต้องเคี้ยว อาจจับ bile acid ด้วย จับยาอื่นด้วย ยาอื่นควรทานก่อน sevel 1ชม / หลัง sevel 3ชม
+			- Lathanum carbonate (เคี้ยว) รักเดียวใจเดียว ไม่จับยาอื่น
+	- Calcium salts
+		- Calcium carbonate and acetate ให้ efficacy เท่ากัน
+			- Calcium acetate แพงกว่า
+			- Calcium carbonate ให้ elemental เยอะกว่า
+- Serum HCO3-
+	- Keep > 22 mEq/L (N: 22-28)
+	- KDIGO ไม่มีเกณฑ์เริ่มยาที่แน่นอน แต่ NICE ให้เริ่มเมื่อ < 20 mEq/L
+- [[2 Areas/University/Diabetes mellitus\|Diabetes mellitus]]
+	- T2DM and T1DM should be screened for CKD
+	- HbA1C q3month if uncontrolled, q6mo if controlled
+	- Target: 6.5-8 individualize by the patient factors
+	- Update to KDIGO Consensus with ADA (จากที่ทำ AC @ [[4 Archives/University Clerkship/04 เจริญกรุงประชารักษ์\|04 เจริญกรุงประชารักษ์]])
+		- Metformin
+			- ลดเหลือ 1000 @ eGFR < 45 และไม่ให้ใช้ถ้า <30
+		- Insulin
+			- eGFR < 45 ให้ปรับขนาดยาอย่างระมัดระวัง
+		- Sulfonylureas
+			- Glipizide ให้เริ่ม 2.5 mg od พอหลัง eGFR < 45
+		- a-glucosidase inhibiotrs
+			- ถ้า eGFR < 30 ไม่ให้ใช้ Acarbose
+		- SGLT2-i ถ้าเริ่มมาแล้วไม่ต้องหยุด แต่ถ้าจะพึ่งเริ่มก็เกณฑ์ตามนี้ ส่วน max dose ให้ลดเหลือตามนี้หลัง eGFR < 45
+			- Canagliflozin 100-300 mg od (max 100 mg) 
+			  Initiation not recommend ed if eGFR < 30
+			- Dapagliflozin 5-10 mg od (max 10 mg) 
+			  Initiation not recommend ed if eGFR < 25
+			- Empagliflozin 10-25 mg od (max 10 mg) 
+			  Initiation not recommend ed if eGFR < 20
+		- GLP-1 RA
+			- Dulaglutide, Liraglutide, Semaglutide ไม่ต้องปรับตามไตเลยยกเว้น Lixisenatide
+			- ในกรณีของ Semaglutide oral จะไม่มีการวัดเกี่ยวกับ renal จึงไม่มีคำแนะนำตรงนี้
+		- DPP-IV
+			- Linagliptin เป็นตัวเดียวที่ไม่ต้องปรับตามไตเลย
+- Secondary Hyperparathyroidism
+	- เกิดจาก Hypocal, Hyperphos
+	- Hypocal -> กระตุ้น PTH
+	- Hypocal เพราะไตพัง VitD ก็หายเพราะไตพัง
+	- ตับ -> 25(OH)D (Calcidiol) -> ไต -> **1,25(OH)2D (Calcitriol)**
+	- แก้ด้วยการให้ Calcitriol or **Vitamin D Analog** (Paricalcitol, Doxercalciferol) ให้เป็น od นะไม่เหมือน [[2 Areas/University/Osteoporosis (OP)\|Osteoporosis (OP)]] ([[0 Inbox/Musculoskeletal Disorder (Summary)#Osteoporosis\|Musculoskeletal Disorder (Summary)#Osteoporosis]]!!! หรือ Calcimemaetic Agent เช่น Cinacalcet, Ethecalcetide
+	- PTHER Handbook: Ergocalceferol / Cholecalciferol/ Calcifediol
+	- ไม่จำเป็นต้อง Routinely **แก้ PTH (KDIGO 2017) แต่ถ้า progressive ให้แก้**
+- Lifestyle Modification
+	- Protein < 0.8 g/kg/day หาก eGFR < 30
+	- Protein < 1.3 g/kg/day หาก Risk of CKD Progression
+	- ให้โปรตีน 1.0 g/kg/day หากทำ HD or PD
+	- Sodium < 2 g (NaCl < 5 g) โดย 1 tsp of salt = 5 g NaCl (ใน NaCl 1 g ประกอบไปด้วย 40% Na และ 60% Cl)

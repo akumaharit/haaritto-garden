@@ -1,0 +1,127 @@
+---
+{"dg-publish":true,"permalink":"/0-inbox/infectious-disorder-summary/","created":"2024-03-02T11:43:03.629+07:00","updated":"2025-10-06T19:46:52.559+07:00"}
+---
+
+# From Exercise
+- sulfonamide act as PABA and diydropteroate diphosphate competitive antagonist to inhibit dihydropteriate syntase
+- trimethorprim act as dihydrofolate competitive antagonist to inhibit dihydrofolate reductase
+- erythromycin is also used in acne as topical form
+- tetracycline can also cause fanconi-like syndrome if expired
+
+# Extra
+- Bactericidal Antibiotics: BANG Q RIP
+	- Beta-lactam
+	- Aminoglycoside
+	- Nitro..
+	- Glycopeptide
+	- Quinolone
+	- Rifampicin
+	- Polymxin
+- Time-dependent antibiotics:
+	- Beta-lactam
+	- Macrolide
+	- Tetracycline
+	- Clindamycin
+- Renal adjustment not required A tiger met mox dox di 4C line
+	- Azithromycin
+	- Tigecycline
+	- Metronidazole
+	- Moxifloxacin
+	- Doxycycline
+	- Dicloxacillin
+	- 4C
+		- Ceftriaxone
+		- Clindamycin
+		- Cloxacillin
+		- Chloramphenicol
+	- Linezolid
+- Protein synthesis inhibitor: BUY AT 30 CELL 50
+	- 30s
+		- Aminoglycoside
+		- Tetracycline
+	- 50s
+		- Chloramphenicol
+		- Clindamycin
+		- Erythromycin
+		- 
+		- Linezolid
+- 
+
+# Tuberculosis
+- Caused by *Mycobacterium tuberculosis*, อาจไม่จำเป็นต้องติดที่ปอด เป็นที่อื่นได้ แต่การรักษาเหมือนกัน แล้วก็อาจไม่ใช่เชื้อ TB ก็ได้ อาจเป็น Non-MTB (Mycobacterium ชนิดอื่นแทน)
+
+
+# HIV
+- NRTI: 
+	- ทุกตัวเป็น **nucleoside** except TDF nucleotide
+	- ทุกตัวปรับยาตามไต ยกเว้น ABC ตามตับ
+	- 3TC FTC
+	- AZT
+		- Anemia
+	- ABC
+		- B5701, Rash
+	- TDF
+		- mitochondrial toxicity
+		- bone ADR (เพราะไตพัง calcium, phosphate ลด ร่างกายเลยดึงจากกระดูก)
+		- fanconi syndrome
+			- phosphaturia, proteinuria, reduced eGFR without other reasons, urine dipstick >= 1
+	- TAF
+		- more weight gain, hypertriglycemia
+- NNRTI:
+	- NVP
+		- lead-in 2 od 2 week then bid (autoinducer)
+	- EFV
+		- CYP inducer
+		- reduce from 600 to 400 if s/e
+		- eat w/ meal cause increased absorption, lead to more s/e but same efficacy
+	- RPV
+		- take with food มื้อหนัก
+- PI:
+	- cyp3A4 strong inhibitors ทุกตัว
+	- ทุกตัวทานพร้อมอาหารยกเว้น LPV/r
+	- LPV/r
+	- RTV
+	- DRV (darunavir)
+- INSTI:
+	- DTG
+		- metformin max 1,000
+		- bid if CYP inducer (rifampicin, efavirenz)
+	- cation drug interaction ทานก่อนอาหาร 2 ชม หลังอาหาร 6 ชม
+- สูตรยาจำตามไกด์ไลน์เอาเอง [[2 Areas/University/HIV Infection#Guideline\|HIV Infection#Guideline]]
+- คนไข้ติด TB ใช้ Rifampicin ยาที่ห้ามใช้: TAF, PI ทุกตัว, Elevitegravir (EVG), Rilpivine (RPV)
+- คนไข้ติด TB ใช้ Rifampicin ยาที่ต้องปรับขนาด: NVP, EFV, DTG
+- When to start ARVs if TB?
+	- TB 
+		- CD4 < 50 
+			- in 2-4 weeks
+		- CD4 > 50 
+			- in 8
+		- neuro TB 
+			- in 2-8 weeks
+	- Cryptococcal meningitis 
+		- in 4-6 weeks
+	- ที่เหลือ 
+		- **2** or 4 weeks หมด!
+- HIV/HBV
+	- TXF and XTC
+	- ถ้าให้ TAF ไม่ได้ add Entecavir
+- HIV/HCV
+	- SOF/VEL ห้ามใช้ร่วมกับ EFV, NVP, Etravirine (NNRTI)
+- HIV/Pregnancy
+	- กดไวรัสแม่ให้ได้ ก็จะแพร่สู่ลูกได้ยาก
+	- ถ้ากดไม่ได้แล้วไม่ทันการ ให้ใช้ TXF/FTC/DTG + AZT 600 mg single dose ก่อนคลอด
+	- DTG ไม่กังวลแล้ว
+	- ทารกหลังคลอด
+		- เสี่ยงต่ำ AZT 4 weeks
+		- เสี่ยงสูง (แม่ยังไม่เข้า goal) AZT+3TC+NVP 4 weeks
+- Daily PrEP
+	- TDF/FTC or TAF/FTC 1 tab od
+	- กิน 7 วันถึงเริ่มออกผล ก่อนหน้านี้ให้ใช้ถุงร่วม
+	- หยุดหลังเลิกเสี่ยง 28 วัน
+- On Demand PrEP
+	- TDF/FTC
+	- ข้อมูลใน MSM เท่านั้น
+	- 2 tab before sex, then 1 tab od อีก 2 วันหลัง sex
+- PEP
+	- TDF/FTC or TDF/3TC + DTG or RPV
+	- กินภายใน 72 ชม และกินจนครบ 4 สัปดาห์

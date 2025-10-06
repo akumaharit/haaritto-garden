@@ -1,0 +1,46 @@
+---
+{"dg-publish":true,"permalink":"/0-inbox/hematologic-disorder-summary/","created":"2024-02-11T18:25:29.636+07:00","updated":"2025-10-06T19:53:29.857+07:00"}
+---
+
+# Anemia
+- การแยก Functional vs Absolute iron deficiency ทำใน [[2 Areas/University/PTHER V/Management of CKD Complications\|Management of CKD Complications]] มากกว่าการประเมิน Anemia แบบทั่วไป (ทำให้ทราบได้ว่าขาดเหล็กจริง,absolute หรือ นำไปใช้ไม่ค่อยได้,functional)
+- Reticulocyte -> Erythrocyte
+	- ถ้าขาดเลือด Reticulocyte จะเพิ่มขึ้นเฉียบพลัน
+	- Reticulocyte index ใช้บ่งบอกได้ว่ามีการกระตุ้นให้ผลิต RBC แค่ไหน
+		- Reticulocytes% / Normal Hct%
+		- more than 2 = destruction, blood loss or hemolysis
+		- less than 2 = ดู morphology ต่อ
+- Hb คำนวณมาจาก Hct หารด้วย 3 ดังนั้น Hct จะแม่นกว่า คนเราจะมีประมาณ 40% ของ whole blood
+- RBC มี alpha, beta อย่างละ 2 unit -> แต่ละ unit จะมี heme (เหล็ก) ที่จับ o2
+	- heme สีเข้ม ถ้าขาดจะ hypochromic
+- Laboratory Interpretation (MCV)
+	- Macrocytic > 100
+		- Megaloblastic (delayed maturation of erythroblast, nucleus) Anemia
+			- Folic or B12 def
+		- Non-megaloblastic anemia
+			- Hypothyroid
+			- Liver disease
+			- Alcoholism
+	- Normocytic 80-100
+		- Blood loss
+		- Hemolysis
+		- CKD
+		- Anemia of inflammation
+	- Microcytic < 80
+		- Iron def -> Confirm ด้วย Ferritin (less than 30 = ขาดชัวร์)
+		- Thalassemia
+		- Anemia of inflammation
+- Iron Supplement
+	- ปกติจะกิน 150-200 mg elemental iron daily (เด็ก 3mkday (max60mg/day))
+	- เหล็ก F S G สูตร 3 2 1 (33%, 20%, 11.6% elemental)
+	- efficacy ไม่ต่าง (Pritchard JA. JAMA 1966)
+	- S/E ต่าง!! Side effect ของ Fumarate > Sulfate > Gluconate > Glycine (MJ Curr 2013)
+	- ติดตาม 1 g/dl ใน 3-4 wks ถ้าไม่ขึ้นให้ปรับ
+- IV Iron
+	- จาก KDIGO -> Ferritin < 500 และ TSAT < 30
+	- Dextran ต้อง test dose เพราะกลัวแพ้
+	- ทุกตัวต้องค่อย ๆ drip ห้าม push เด็ดขาด
+- Blood Transfusion
+	- Indication = Hb 7-8 and symptomatic
+	- if cardio or iron def อาจ keep สูงกว่านี้
+	- PRBC 1 unit เพิ่มได้ Hb 1 g/dl (Hct 3%)

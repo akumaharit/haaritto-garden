@@ -1,0 +1,50 @@
+---
+{"dg-publish":true,"permalink":"/2-areas/university/hemorrhoid/","created":"2023-02-12T22:00:50.109+07:00","updated":"2025-10-06T19:51:16.680+07:00"}
+---
+
+## Hemorrhoid
+- อักเสบ บวม หย่อน
+- เกิดจากการอักเสบและบวมของหลอดเลือดดำ บริเวณส่วนปลายของลำไส้ใหญ่และทวารหนัก น่าจะมาจากการที่ความดันในหลอดเลือดมากกว่าปกติ
+- เนื้อเยื่อเกี่ยวพันหย่อนคล้อย
+- Risk Factor
+	- อ้วน
+	- นั่งนาน
+	- เบ่งขี้
+	- สูงอายุ
+	- ท้องเสีย ท้องผูกเรื้อรัง
+	- แก่
+- Classification
+	- เหนือ/ต่ำกว่า Dentate line
+		- Internal Hemorrhoid
+			- ไม่เจ็บ มีเลือดปนได้
+		- External Hemorrhoid
+			- มันจะมีอาการปวด และรู้สึกว่ามีติ่ง
+	- Severity
+		- Grade 1 ขณะถ่ายไม่มีติ่ง
+		- Grade 2 มีติ่งขณะถ่าย หดกลับเองได้
+		- Grade 3 มีติ่งขณะถ่าย นิ้วดันกลับได้
+		- Grade 4 มีติ่งขณะถ่าย ไม่เข้าไปเลย มันไม่กลับเข้าไปแล้วช่วยด้วย
+			- ระยะนี้เราไม่รักษาร้านยา ไล่ไปรพ
+- Treatment
+	- Lifestyle modification สำคัญ
+	- Pharmacological Treatment
+		- Flavonoids (Daflon, Dafomoin)
+			- กลไกการออกฤทธิ์ของยายังไม่ทราบแน่ชัด แต่เชื่อว่าสามารถเพิ่ม venous tone, เพิ่ม lymphatic drainage, stabilize capillary permeability ได้
+			- Acute
+				- 2x3 4วัน po pc
+				- 2x2 3วัน po pc
+			- Maintenance (ถ้า recurrence)
+				- 1x2 po pc
+		- เพชรสังฆาต
+			- รักษาเลือดออก / หลอดเลือดขอดที่ยื่นออกมา
+			- 250mg 3x3 po pc
+		- Topical:
+			- มีทั้งรูปแบบยาทา และยาเหน็บ  
+			- มีกลไกการออกฤทธิลดอาการปวด ลดการอักเสบและคัน
+				- ประกอบไปด้วย local anesthetic, corticosteroids และ antibiotic
+				- นิยมใช้กับ External Hemorrhoid
+				- Proctocedyl: cinchocaine hydrochloride, hydrocortisone, framycetin, **aesculin**(เกี่ยวกับหลอดเลือด)
+				- Doproct: benzocaine, hydrocortisone, zinc oxide
+				- เก็บยาในตู้เย็น  
+				- **ทา หรือเหน็บครั้งละ 1 เม็ด วันละ 2 ครั้ง เช้า-เย็น** จนอาการดีขึ้น
+	- Surgery (Grade4/หมอมองว่าต้องผ่า)
