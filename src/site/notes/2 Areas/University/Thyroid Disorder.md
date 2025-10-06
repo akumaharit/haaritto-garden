@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/university/thyroid-disorder/","created":"2022-12-12T18:07:28.262+07:00","updated":"2025-10-06T19:50:40.171+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/university/thyroid-disorder/","created":"2022-12-12T18:07:28.262+07:00","updated":"2025-10-06T19:59:11.268+07:00"}
 ---
 
 
@@ -108,6 +108,6 @@ Agranulocytosis **happens when your body doesn't make enough white blood cells 
 - อาจตั้งใจก็ได้
 - **amiodarone**, contrast-media, iodoquinol, povidone-iodine, oral kelp
 
-## Thyrotoxicosis / Thyroid Storm   << ต่างกัน
+## Thyrotoxicosis / Thyroid Storm   (ต่างกัน)
 - ยาที่บทบาท = PTU, propanolol, Iodine (SSKI), Lugol's Solution, Hydrocortisone
 	- Lugol's Solution ประกอบไปด้วย Iodine - KI****

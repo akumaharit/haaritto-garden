@@ -30,6 +30,8 @@
 ## 30 Latest Modified Notes ⚒️📝
 | File                                                                                                                                | Modified   |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[2 Areas/University/Thyroid Disorder\|Thyroid Disorder]]                                                                        | 2025-10-06 |
+| [[2 Areas/University/Hemorrhoid\|Hemorrhoid]]                                                                                    | 2025-10-06 |
 | [[0 Inbox/Hematologic Disorder (Summary)\|Hematologic Disorder (Summary)]]                                                       | 2025-10-06 |
 | [[2 Areas/University/PTHER II/Drug-induced blood disorders\|Drug-induced blood disorders]]                                       | 2025-10-06 |
 | [[2 Areas/University/Anemia (CC)\|Anemia (CC)]]                                                                                  | 2025-10-06 |
@@ -58,7 +60,5 @@
 | [[0 Inbox/Glomerular Disease\|Glomerular Disease]]                                                                               | 2025-10-06 |
 | [[2 Areas/University/PTHER V/Slowing the CKD Progression\|Slowing the CKD Progression]]                                          | 2025-10-06 |
 | [[2 Areas/University/PTHER V/Management of CKD Complications\|Management of CKD Complications]]                                  | 2025-10-06 |
-| [[2 Areas/University/PLE-CC/Acute kidney injury\|Acute kidney injury]]                                                           | 2025-10-06 |
-| [[0 Inbox/Renal Disorders (Summary)\|Renal Disorders (Summary)]]                                                                 | 2025-10-06 |
 
 { .block-language-dataview}

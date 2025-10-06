@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/university/hemorrhoid/","created":"2023-02-12T22:00:50.109+07:00","updated":"2025-10-06T19:51:16.680+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/university/hemorrhoid/","created":"2023-02-12T22:00:50.109+07:00","updated":"2025-10-06T19:58:43.880+07:00"}
 ---
 
 ## Hemorrhoid
