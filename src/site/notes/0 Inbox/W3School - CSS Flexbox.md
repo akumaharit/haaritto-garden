@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/w3-school-css-flexbox/","tags":["w3school"],"created":"2025-10-12T11:17:18.372+07:00","updated":"2025-10-12T11:33:15.818+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/w3-school-css-flexbox/","tags":["w3school"],"created":"2025-10-12T11:17:18.372+07:00","updated":"2025-10-12T11:43:38.554+07:00"}
 ---
 
 Flexbox is a layout model for arranging items within a container in a flexible and responsive way.
@@ -23,3 +23,20 @@ You can specify container size using `height` and `width`
 
 ## PERFECT CENTERING
 - Simply set `justify-content: center;` and `align-items: center;` and the flex items will be perfectly centered.
+
+
+## Flexbox items
+In flex item, you can apply `order` to specify order it appear inside the container. It will be number,
+```html
+<div class="flex-container">  
+  <div style="order: 3">1</div>  
+  <div style="order: 2">2</div>  
+  <div style="order: 4">3</div>  
+  <div style="order: 1">4</div>  
+</div>
+```
+Specify `flex-grow` to specify how much a item will grow relative to the rest of flex items
+`flex-shrink` to specify how much a flex item will shrink relative to the rest of flex items
+`flex-basis` specify initial length of a flex item such as `flex-basis: 200px`, this will override the `width`
+`flex` is a shorthand for `flex-grow flex-shrink flex-basis` such as `flex: 0 0 200px` will make item not growable (0) not shrinkable (0) and initial legnth of 200 pixels
+`align-self` to specify alignment for the selected item inside flexible container. this will override the container's `align-items`

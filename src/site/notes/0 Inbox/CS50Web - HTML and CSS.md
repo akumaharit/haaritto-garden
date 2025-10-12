@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/cs-50-web-html-and-css/","tags":["cs50web"],"created":"2024-05-03T23:10:10.039+07:00","updated":"2025-10-12T11:10:51.849+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/cs-50-web-html-and-css/","tags":["cs50web"],"created":"2024-05-03T23:10:10.039+07:00","updated":"2025-10-12T11:55:45.551+07:00"}
 ---
 
 # HTML
@@ -49,7 +49,7 @@ A table consist of individual rows and each rows consist of individual cells
 </table>
 ```
 
-## Form
+## [[0 Inbox/W3School - CSS Form\|W3School - CSS Form]]
 ``` html
 <form>
 	<input type="text" placeholder="This will display before the user select the field" name="to identy what data was submitted" required=true (actually no need to state true, it is default to true)> 
