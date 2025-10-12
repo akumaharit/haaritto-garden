@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/w3-school-css-form/","tags":["w3school"],"created":"2025-10-12T11:55:39.326+07:00","updated":"2025-10-12T12:05:48.831+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/w3-school-css-form/","tags":["w3school"],"created":"2025-10-12T11:55:39.326+07:00","updated":"2025-10-12T15:59:25.705+07:00"}
 ---
 
 CSS form can be greatly improved with CSS
 Some commonly used CSS properties for styling input fields, are:
 - width
 	- used to set width of input field. can use attribute selector to select specific input type such as `input[type=text] { }`
+	- When applying the `width` by default it is WIDTH + PADDING + BORDER which will causes overflow (padding and border are added outside that width). You have to add `box-sizing: border-box` so the width included only padding and border.  #webrevision 
 - padding
 	- used to add some space inside text field.
 - margin
@@ -19,7 +20,6 @@ Some commonly used CSS properties for styling input fields, are:
 > [!NOTE] About `padding` and `width`
 > You can specify top bottom / left and right in just 1 line such as
 > `margin: 4px 2px;` this mean 4px space above and below the button AND 2px to the left and right of it.
-
 
 ## Style input with focus
 By default, browsers may add blue outline around the input when it gets focus (clicked on) You can remove this by adding `outline: none;`

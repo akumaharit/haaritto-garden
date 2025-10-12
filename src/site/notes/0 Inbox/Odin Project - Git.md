@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/odin-project-git/","created":"2024-01-07T17:00:29.788+07:00","updated":"2025-10-11T21:51:40.105+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/odin-project-git/","created":"2024-01-07T17:00:29.788+07:00","updated":"2025-10-12T21:19:46.495+07:00"}
 ---
 
 
@@ -25,7 +25,7 @@ Git comes installed with most linux distribution, but it won't be accessible via
 - Separate subject from body with a blank line
 - Limit the subject line to **50 characters**
 - Capitalize the subject line
-- Do not end the subject line with a period
+- Do not end the subject line with a period 
 - Use the imperative mood in the subject line
 	- This commit will `___________` , **it should fit this sentence!**
 - Wrap the body at 72 characters

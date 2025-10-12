@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/cs-50-web-html-and-css/","tags":["cs50web"],"created":"2024-05-03T23:10:10.039+07:00","updated":"2025-10-12T11:55:45.551+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/cs-50-web-html-and-css/","tags":["cs50web"],"created":"2024-05-03T23:10:10.039+07:00","updated":"2025-10-12T16:22:52.606+07:00"}
 ---
 
 # HTML
@@ -67,6 +67,21 @@ A table consist of individual rows and each rows consist of individual cells
 ```
 In `<form>` you can specify `action` attribute to tell the browser to submit the data into that URL. And the data is sent using `GET`
 `name` is the parameter name such as the password it will be send as `URL?pass=xxxx`
+By default, **the `input` is a inline element.** Convert it into block using `display: block` so it will be displayed as a new line.
+
+In case when you wanted to customize the button label but also specify the value to be sent inside, you can use this one: (Use the `<button>` inside `<form>`) #webrevision 
+```html
+<form action="https://www.google.co.th/search">
+  <input type="text" name="q" placeholder="Search...">
+
+  <!-- normal search -->
+  <button type="submit">Google Search</button>
+
+  <!-- image search -->
+  <button type="submit" name="udm" value="2">Image Search</button>
+</form>
+
+```
 
 # [[0 Inbox/CSS\|CSS]]
 
@@ -83,6 +98,7 @@ The way of selecting element is called css select
 
 - `padding` ใช้ขยับไม่ให้ element ข้างใน มันติดขอบของ element นั้นมากเกินไป
 - `margin` เป็นพื้นที่ว่างของรอบ ๆ element นั้นให้ห่างจาก element อื่นทั้งหมด
+- To center something, use `margin: ___ auto;` `align-items` is for **flexbox**. #webrevision
 - `font-family` specify font family เช่น `font-family: Arial, sans-serif` หมายถึงถ้า Arial ไม่รองรับใน Browser, then it will fall back to sans-serif
 	- `font-weight`, `font-size`
 	- What fonts to use? [[0 Inbox/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]
