@@ -30,10 +30,10 @@
 ## 30 Latest Modified Notes ⚒️📝
 | File                                                                                                                                                           | Modified   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Home/2-Month Intensive Curriculum for InterSystems Technical Specialist Role\|2-Month Intensive Curriculum for InterSystems Technical Specialist Role]] | 2025-10-12 |
 | [[0 Inbox/Odin Project - Git\|Odin Project - Git]]                                                                                                          | 2025-10-12 |
 | [[0 Inbox/CS50Web - HTML and CSS\|CS50Web - HTML and CSS]]                                                                                                  | 2025-10-12 |
 | [[0 Inbox/W3School - CSS Form\|W3School - CSS Form]]                                                                                                        | 2025-10-12 |
-| [[0 Home/2-Month Intensive Curriculum for InterSystems Technical Specialist Role\|2-Month Intensive Curriculum for InterSystems Technical Specialist Role]] | 2025-10-12 |
 | [[0 Inbox/W3School - CSS Flexbox\|W3School - CSS Flexbox]]                                                                                                  | 2025-10-12 |
 | [[0 Inbox/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]                                                                    | 2025-10-12 |
 | [[0 Inbox/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                                                    | 2025-10-11 |
