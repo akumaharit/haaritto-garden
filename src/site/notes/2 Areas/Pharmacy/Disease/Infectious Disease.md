@@ -6,12 +6,12 @@
 - [[0 Inbox/Infectious Disorder Summary\|Infectious Disorder Summary]]
 - [[2 Areas/University/HIV Infection\|HIV Infection]] (without OIs) (มี OI ออกด้วย [[0 Inbox/Opportunistic infection\|Opportunistic infection]])
 - [[Parasitic Infections\|Parasitic Infections]] (หิด เหา พยาธิ)
-	- [[4 Archives/Helminthic infection\|Helminthic infection]]
+	- [[2 Areas/Pharmacy/Helminthic infection\|Helminthic infection]]
 - [[Sexually transmitted diseases & Vaginitis\|Sexually transmitted diseases & Vaginitis]]
 	- [[2 Areas/University/Vaginitis - Leukorhea (ตกขาว)\|Vaginitis - Leukorhea (ตกขาว)]]
 	- [[2 Areas/University/Gonorrhea\|Gonorrhea]]
 	- [[2 Areas/University/Syphilis\|Syphilis]]
-	- [[4 Archives/chancroid\|chancroid]]
+	- [[2 Areas/Pharmacy/chancroid\|chancroid]]
 - [[2 Areas/University/Tuberculosis\|Tuberculosis]] ([[0 Inbox/Latent tuberculosis\|Latent tuberculosis]])
 - [[2 Areas/University/Upper Respiratory Tract Infection\|Upper Respiratory Tract Infection]] (common cold, flu, pharyngitis, purulent rhinitis, otitis media, sinusitis)
 - [[2 Areas/University/Lower Urinary Tract Infection\|Lower Urinary Tract Infection]] / [[0 Inbox/Upper Urinary Tract Infection\|Upper Urinary Tract Infection]]

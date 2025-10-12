@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/cs-50-web-html-and-css/","tags":["cs50web"],"created":"2024-05-03T23:10:10.039+07:00","updated":"2025-10-05T22:46:54.274+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/cs-50-web-html-and-css/","tags":["cs50web"],"created":"2024-05-03T23:10:10.039+07:00","updated":"2025-10-12T11:10:51.849+07:00"}
 ---
 
 # HTML
@@ -25,6 +25,9 @@ drawing DOM tree can help you illustrate the HTML in graph form, useful when wor
 - href = hyperlink reference
 
 ## Table
+{ #3c310a}
+
+
 A table consist of individual rows and each rows consist of individual cells
 ```html
 <table>
@@ -62,7 +65,8 @@ A table consist of individual rows and each rows consist of individual cells
 	<input type="submit">
 </form>
 ```
-
+In `<form>` you can specify `action` attribute to tell the browser to submit the data into that URL. And the data is sent using `GET`
+`name` is the parameter name such as the password it will be send as `URL?pass=xxxx`
 
 # [[0 Inbox/CSS\|CSS]]
 
@@ -81,6 +85,7 @@ The way of selecting element is called css select
 - `margin` เป็นพื้นที่ว่างของรอบ ๆ element นั้นให้ห่างจาก element อื่นทั้งหมด
 - `font-family` specify font family เช่น `font-family: Arial, sans-serif` หมายถึงถ้า Arial ไม่รองรับใน Browser, then it will fall back to sans-serif
 	- `font-weight`, `font-size`
+	- What fonts to use? [[0 Inbox/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]
 - Table
 	- `border 1px solid black`
 	- To specify for each table data to have border, specify the border properties of CSS for td element of HTML

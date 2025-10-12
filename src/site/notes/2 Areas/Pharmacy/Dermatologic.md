@@ -5,7 +5,7 @@
 ## Dermatologic
 - [[2 Areas/University/Urticaria - Angioedema\|Urticaria - Angioedema]]
 - [[Superficial fungal infections\|Superficial fungal infections]]
-- [[4 Archives/Acne\|Acne]]
+- [[2 Areas/Pharmacy/Acne\|Acne]]
 - [[Eczema\|Eczema]]
 - [[2 Areas/University/Herpes Simplex\|Herpes Simplex]] (Herpes)
 - [[Wound\|Wound]]

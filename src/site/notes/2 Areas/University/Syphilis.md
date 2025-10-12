@@ -23,7 +23,7 @@
 ## Symptoms
 - Primary Syphilis
 	- เป็นแผลริมแข็งที่อวัยวะเพศ เรียกว่า chancre อาจมีต่อมน้ำเหลืองโต
-		- ถ้า [[4 Archives/chancroid\|chancroid]] จะเป็นแผลริมอ่อน การรักษาจะต่างกัน
+		- ถ้า [[2 Areas/Pharmacy/chancroid\|chancroid]] จะเป็นแผลริมอ่อน การรักษาจะต่างกัน
 	- **ไม่เจ็บ** !!!!!!!!!!!
 - Secondary Syphilis
 	- มีผื่นขึ้นตามลำตัว **ทั้งตัว**

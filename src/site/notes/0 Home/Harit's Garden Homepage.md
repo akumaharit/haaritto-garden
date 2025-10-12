@@ -12,24 +12,29 @@
 > The following lists were created using DATAVIEW, Please just **CTRL+K** to search for something (it's a lot better than scrolling here! 😆), trust me!
 
 ## 10 Newest Notes 🆕🔥
-| File                                                                                                                                                                                         | Created    |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[0 Inbox/Bootstrap5\|Bootstrap5]]                                                                                                                                                        | 2025-10-05 |
-| [[0 Inbox/Python Requests\|Python Requests]]                                                                                                                                              | 2025-10-05 |
-| [[2 Areas/Programming/Web/python-dotenv\|python-dotenv]]                                                                                                                                  | 2025-10-01 |
-| [[2 Areas/Programming/Web/1 - Hello World Flask Application\|1 - Hello World Flask Application]]                                                                                          | 2025-10-01 |
-| [[2 Areas/Programming/Web/name variable in Python\|name variable in Python]]                                                                                                              | 2025-10-01 |
-| [[2 Areas/Programming/Web/Python Package\|Python Package]]                                                                                                                                | 2025-10-01 |
-| [[2 Areas/Programming/Web/Python virtual environment\|Python virtual environment]]                                                                                                        | 2025-10-01 |
-| [[2 Areas/Programming/Web/The Flask Mega Tutorial 2024 - Miguel Grinberg\|The Flask Mega Tutorial 2024 - Miguel Grinberg]]                                                                | 2025-10-01 |
-| [[2 Areas/Programming/Python/Prompt Engineering with the OpenAI API\|Prompt Engineering with the OpenAI API]]                                                                             | 2025-09-29 |
-| [[2 Areas/Self improvement/พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)\|พัฒนาโลกภายในและกรอบความคิดเพื่อชีวิตที่สุขสมบูรณ์ (Mindset & Belief Mastery)]] | 2025-09-27 |
+| File                                                                                                                          | Created    |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/W3School - CSS Flexbox\|W3School - CSS Flexbox]]                                                                 | 2025-10-12 |
+| [[0 Inbox/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]                                   | 2025-10-12 |
+| [[0 Inbox/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                   | 2025-10-05 |
+| [[0 Inbox/Python Requests\|Python Requests]]                                                                               | 2025-10-05 |
+| [[2 Areas/Programming/Web/python-dotenv\|python-dotenv]]                                                                   | 2025-10-01 |
+| [[2 Areas/Programming/Web/1 - Hello World Flask Application\|1 - Hello World Flask Application]]                           | 2025-10-01 |
+| [[2 Areas/Programming/Web/name variable in Python\|name variable in Python]]                                               | 2025-10-01 |
+| [[2 Areas/Programming/Web/Python Package\|Python Package]]                                                                 | 2025-10-01 |
+| [[2 Areas/Programming/Web/Python virtual environment\|Python virtual environment]]                                         | 2025-10-01 |
+| [[2 Areas/Programming/Web/The Flask Mega Tutorial 2024 - Miguel Grinberg\|The Flask Mega Tutorial 2024 - Miguel Grinberg]] | 2025-10-01 |
 
 { .block-language-dataview}
 
 ## 30 Latest Modified Notes ⚒️📝
 | File                                                                                                                                | Modified   |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/W3School - CSS Flexbox\|W3School - CSS Flexbox]]                                                                       | 2025-10-12 |
+| [[0 Inbox/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]                                         | 2025-10-12 |
+| [[0 Inbox/CS50Web - HTML and CSS\|CS50Web - HTML and CSS]]                                                                       | 2025-10-12 |
+| [[0 Inbox/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                         | 2025-10-11 |
+| [[0 Inbox/Odin Project - Git\|Odin Project - Git]]                                                                               | 2025-10-11 |
 | [[2 Areas/University/Thyroid Disorder\|Thyroid Disorder]]                                                                        | 2025-10-06 |
 | [[2 Areas/University/Hemorrhoid\|Hemorrhoid]]                                                                                    | 2025-10-06 |
 | [[0 Inbox/Hematologic Disorder (Summary)\|Hematologic Disorder (Summary)]]                                                       | 2025-10-06 |
@@ -45,7 +50,7 @@
 | [[2 Areas/University/Psoriasis\|Psoriasis]]                                                                                      | 2025-10-06 |
 | [[2 Areas/University/Dermatitis\|Dermatitis]]                                                                                    | 2025-10-06 |
 | [[2 Areas/University/Herpes Simplex\|Herpes Simplex]]                                                                            | 2025-10-06 |
-| [[4 Archives/Acne\|Acne]]                                                                                                        | 2025-10-06 |
+| [[2 Areas/Pharmacy/Acne\|Acne]]                                                                                                  | 2025-10-06 |
 | [[2 Areas/University/Urticaria - Angioedema\|Urticaria - Angioedema]]                                                            | 2025-10-06 |
 | [[2 Areas/University/Asthma & COPD\|Asthma & COPD]]                                                                              | 2025-10-06 |
 | [[2 Areas/University/PTHER I/Inhaler Products\|Inhaler Products]]                                                                | 2025-10-06 |
@@ -55,10 +60,5 @@
 | [[2 Areas/University/Osteoporosis (OP)\|Osteoporosis (OP)]]                                                                      | 2025-10-06 |
 | [[2 Areas/University/PTHER I/21 - OA\|21 - OA]]                                                                                  | 2025-10-06 |
 | [[2 Areas/University/Osteoarthritis\|Osteoarthritis]]                                                                            | 2025-10-06 |
-| [[0 Inbox/Fluid and Electrolyte Disorder\|Fluid and Electrolyte Disorder]]                                                       | 2025-10-06 |
-| [[0 Inbox/Nephrolithiasis\|Nephrolithiasis]]                                                                                     | 2025-10-06 |
-| [[0 Inbox/Glomerular Disease\|Glomerular Disease]]                                                                               | 2025-10-06 |
-| [[2 Areas/University/PTHER V/Slowing the CKD Progression\|Slowing the CKD Progression]]                                          | 2025-10-06 |
-| [[2 Areas/University/PTHER V/Management of CKD Complications\|Management of CKD Complications]]                                  | 2025-10-06 |
 
 { .block-language-dataview}
