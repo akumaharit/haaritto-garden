@@ -1,0 +1,44 @@
+---
+{"dg-publish":true,"permalink":"/2-areas/programming/python/object-oriented-programming-oop/","tags":["datacamp","python"],"created":"2023-03-18T22:17:46.583+07:00","updated":"2025-10-14T22:51:19.524+07:00"}
+---
+
+- Procedural Programming
+	- program as sequence
+- Object-oriented programming
+	- code as "interaction of objects"
+		- great for framework and tools
+- Object vs Class: Concepts of _object_ and _class_ are related, but have a fundamental difference: 
+	- an object is a particular representation of a class, 
+	- while a class is just an abstract pattern.
+- Object = state + behavior 
+	- เช่น customer ก็จะมี เบอร์โทร ชื่อ ฯลฯ
+	- **Encapsulation - bundling data with code operating on it ก็คือมองให้มันเป็น 1 objects** ก็คือ อะไรที่เป็นส่วนประกอบของ objects เราจะให้มันเป็น attribute ของมันไปเลยจ้าไรงี้ (*this is key concept of the OOP*)
+- Class เป็น blueprint ของ object ว่ามันจะมีอะไร (state and behavior อะไร) ประกอบด้วยอะไร และทำอะไรได้บ้างไรงี้
+- ทุกอย่างใน python คือ object และมี class ของมันอยู่ โดยใช้ `type()` ในการหา class
+- ![Pasted image 20230118231017.png|250](/img/user/3%20Resources/Attachment/Pasted%20image%2020230118231017.png)
+- จริง ๆ state คือ attribute และ behavior คือ method
+	- attribute จริง ๆ ก็คือ numbers, string, tuple, list, numpy array ไรงี้
+	- method จริง ๆ ก็คือ function
+	- เวลาเข้าถึงก็จะใช้ `obj.my_attribute` หรือ `obj.my_method()
+	- `dir()` ทำให้รู้ method และ attribute ที่ object นั้นมี
+	- ถ้าอยากจะรู้ว่า method or attribute นั้นคืออะไรให้ใช้ `help()`
+	- docstrings เป็นสิ่งที่อธิบายเราว่ามันใช้อะไรยังไงคืออะไร
+- จะสร้าง class ก็ใช้ `class .... :` เหมือนกับการสร้าง function ทั่วไป
+- การสร้าง method ก็คือการ define function ใน class แต่จะต้องใช้ **self** เป็น argument แรก
+	- เวลาเรียกใช้ method มันข้าม argument self ไปเลย
+- **self คือ**
+	-  ![Pasted image 20230118232642.png|600](/img/user/3%20Resources/Attachment/Pasted%20image%2020230118232642.png)
+	- ตอน define class object มันยังไม่เกิด เราเลยต้องใช้ self เพื่อให้ object ที่เกิดขึ้นตามมาทีหลังรู้ว่ามันจะเป็น method ของ object นั้นนะเวลาสร้างขึ้นมา **(เพื่อให้รู้ว่า method จะเป็นของตัวเขาเองนะที่สร้างขึ้นมาตอนเรียก class object) ไม่ใช่ของคนอื่น!!!**
+- การสร้าง attribite ก็คือการ define ด้วย = ใน method 
+	- ![Pasted image 20230118232957.png|600](/img/user/3%20Resources/Attachment/Pasted%20image%2020230118232957.png)
+- ![Pasted image 20230118233342.png|650](/img/user/3%20Resources/Attachment/Pasted%20image%2020230118233342.png)
+- ถ้า object นั้นยังไม่ได้ถูก define attribute บางอย่างมันก็จะเรียกใช้ไม่ได้ (แบบต่อให้ empty ก็จะเรียกไม่ได้ มันจะบอกว่า ..... object has no attribute...)
+- เวลาสร้าง object จาก class มันจะยังเป็น object เปล่า ๆ ถ้าหาก class มันยังไม่มีอะไร แต่เราสามารถสั่งได้ให้มันทำบางอย่างเวลาสร้าง object ซึ่งก็คือ **constructor** ก็คือ `__int__()` method ซึ่งจะถูกเรียกทุกครั้งเวลา object ถูกเรียก
+	- ![Pasted image 20230118234516.png|550](/img/user/3%20Resources/Attachment/Pasted%20image%2020230118234516.png)
+	- เราสามารถตั้ง default value ของ parameters ใน `__init__` ได้เช่น `def __init__(self,name,balance=0)` อย่างกรณีนี้แค่เราสร้าง object `cust = .....("Test")` มันก็จะมี `cust.balance` เป็น 0 เลยแต่จะมี name ตามที่เราตั้ง
+	- A constructor is **a unique function that gets called automatically when an object is created of a class**. The main purpose of a constructor is to initialize or assign values to the data members of that class. It cannot return any value other than none. [ref](https://www.scaler.com/topics/constructor-in-python/#:~:text=A%20constructor%20is%20a%20unique,any%20value%20other%20than%20none.)
+- **Best Practices**
+	- สร้าง attributes ใน `__init__`
+	- ใช้ CamelCase (และไม่มี delimiters) สำหรับ class แต่ใช้ lower_snake_case สำหรับ functions and attribute
+	- argument อันแรกจริง ๆ จะไม่ใช้ self ก็ได้เวลา define method **แต่ไม่ควร**
+	- ทำ docstrings ด้วย มันจะขึ้นเวลาเรียก `help()` ก็คือบรรทัดใต้ class definition ใช้ข้อความใน format """ this does nothing """ สำหรับ docstring
