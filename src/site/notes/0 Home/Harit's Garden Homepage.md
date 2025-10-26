@@ -14,6 +14,7 @@
 ## 10 Newest Notes 🆕🔥
 | File                                                                                                                                                           | Created    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/CS50 - SQL\|CS50 - SQL]]                                                                                                                          | 2025-10-26 |
 | [[0 Inbox/CS50 - Django\|CS50 - Django]]                                                                                                                    | 2025-10-18 |
 | [[0 Inbox/CS50Web - Python\|CS50Web - Python]]                                                                                                              | 2025-10-14 |
 | [[0 Home/2-Month Intensive Curriculum for InterSystems Technical Specialist Role\|2-Month Intensive Curriculum for InterSystems Technical Specialist Role]] | 2025-10-12 |
@@ -23,17 +24,17 @@
 | [[0 Inbox/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                                                    | 2025-10-05 |
 | [[0 Inbox/Python Requests\|Python Requests]]                                                                                                                | 2025-10-05 |
 | [[2 Areas/Programming/Web/python-dotenv\|python-dotenv]]                                                                                                    | 2025-10-01 |
-| [[2 Areas/Programming/Web/1 - Hello World Flask Application\|1 - Hello World Flask Application]]                                                            | 2025-10-01 |
 
 { .block-language-dataview}
 
 ## 30 Latest Modified Notes ⚒️📝
 | File                                                                                                                                                           | Modified   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[0 Inbox/CS50 - Django\|CS50 - Django]]                                                                                                                    | 2025-10-18 |
+| [[0 Inbox/CS50 - SQL\|CS50 - SQL]]                                                                                                                          | 2025-10-26 |
+| [[0 Inbox/CS50 - Django\|CS50 - Django]]                                                                                                                    | 2025-10-25 |
+| [[0 Home/2-Month Intensive Curriculum for InterSystems Technical Specialist Role\|2-Month Intensive Curriculum for InterSystems Technical Specialist Role]] | 2025-10-25 |
 | [[0 Inbox/CS50Web - Python\|CS50Web - Python]]                                                                                                              | 2025-10-18 |
 | [[2 Areas/Programming/Python/Object Oriented Programming (OOP)\|Object Oriented Programming (OOP)]]                                                         | 2025-10-14 |
-| [[0 Home/2-Month Intensive Curriculum for InterSystems Technical Specialist Role\|2-Month Intensive Curriculum for InterSystems Technical Specialist Role]] | 2025-10-12 |
 | [[0 Inbox/Odin Project - Git\|Odin Project - Git]]                                                                                                          | 2025-10-12 |
 | [[0 Inbox/CS50Web - HTML and CSS\|CS50Web - HTML and CSS]]                                                                                                  | 2025-10-12 |
 | [[0 Inbox/W3School - CSS Form\|W3School - CSS Form]]                                                                                                        | 2025-10-12 |
@@ -59,6 +60,5 @@
 | [[2 Areas/University/Urticaria - Angioedema\|Urticaria - Angioedema]]                                                                                       | 2025-10-06 |
 | [[2 Areas/University/Asthma & COPD\|Asthma & COPD]]                                                                                                         | 2025-10-06 |
 | [[2 Areas/University/PTHER I/Inhaler Products\|Inhaler Products]]                                                                                           | 2025-10-06 |
-| [[2 Areas/University/PTHER I/23 - Drug Induced bone joint & muscle disease\|23 - Drug Induced bone joint & muscle disease]]                                 | 2025-10-06 |
 
 { .block-language-dataview}

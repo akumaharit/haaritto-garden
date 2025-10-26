@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/0-inbox/cs-50-django/","tags":["cs50web","django"],"created":"2025-10-18T15:42:21.382+07:00","updated":"2025-10-18T17:32:28.586+07:00"}
+{"dg-publish":true,"permalink":"/0-inbox/cs-50-django/","tags":["cs50web","django"],"created":"2025-10-18T15:42:21.382+07:00","updated":"2025-10-25T15:31:24.447+07:00"}
 ---
 
 Can be used to automatically generate HTML or CSS, enabling **dynamic web**
@@ -91,15 +91,158 @@ path("<str:name>", views.greet, name="greet")
 Create a new folder called `templates` inside the app directory, and created `hello` (because the template name is `hello/index.html`)
 We often prefix our templates with directory is to **namespace** them, to make sure no conflict happen if we have multiple index for multiple app
 
-HTML can also be parameterize! Now, I'm going to edit the greet function to automatically render certain page for the string path
-`return(request, "hello/greet.html)`
+HTML can also be parameterize! 
+In HTML, use double curly braces (Django templating language) `{{ name }}`
 ```python
+from django.shortcuts import render
+
 def greet(request, name):
 	return render(request, "hello/greet.html", { #we add another argument to provide "context" for the template, it is a python dictionaryz
 		"name": name.capitalize()
 	})
 ```
+To add logical statement you can use in HTML you can use `{% %}` -> the syntax is like python but not python! it also does not require indentation like python, but you can ident to make it easier to read
+```html
+{% if newyear %}
+	<h1> YES </h1>
+{% else %}
+	<h1> NOW </h1>
+{% endif %}
 
-In HTML, use double curly braces (Django templating language) `{{ name }}`
+```
 
-35:05
+For loop is also supported
+```html
+{% for task in tasks %}
+	<li>{{ task }}</li>
+{% end for %}
+```
+
+
+### Static Files
+For file such as CSS, in django we called that "static file" unlike the html template, we call that "dynamic file"
+We store the static file just like the HTML template, however we will name the folder as "static" such as  `static/appname`
+You can add `{% load static %}` to make it load static file into html template.
+And then you could just `<link href="{% static 'newyear/styles.css' %}" rel="stylesheet">`
+Django will just add the url by itself.
+
+
+### Template Inheritance
+So we don't have to copy pasting the HTML for each PAGE
+Django have the ability of **template inheritance**
+Start by creating a **layout** html, that the other html file are going to inherit from the layout.
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tasks</title>
+</head>
+<body>
+    {% block body %}
+    {% endblock %}
+</body>
+</html>
+
+```
+The rest of the structure won't change except "block body" might change,
+**body** is the name of the block. You can change it to any that you wanted.
+Now inside the index.html (or other html file that you want it to inherit the layout)
+```html
+{% extends "tasks/layout.html %}
+
+{% block body %}
+    <ul>
+        {% for task in tasks %}
+            <li>{{ task }}</li>
+        {% empty %} 
+            <li>No Tasks.</li>
+        {% endfor %}
+    </ul>
+{% endblock %}
+```
+"Use the layout.html template" EXCEPT inside the block body, I would like to include all of this content
+The `{% empty %}` will basically check if the loop is empty, and if it is empty then return this one. This is a nice feature of Django!
+
+When linking between page in Django, you can use the path of the html relatively.
+However, you can use the "name" of that "route" that use defined in the `url.py`
+`<a href="{% url 'add' %}">Add a New Task</a>` instead of `<a href="tasks/add">Add a New Task</a>`
+
+To prevent namespace collision it is a good practice to add
+`app_name = "tasks"` in the urls.py, to easily identify what app_name is this urls.py file
+and use **COLON** `<a href = "{% url 'tasks:index' %}">View Tasks</a>` to specify "tasks" app get the index URL
+
+### Sending Data between app
+Sending data between app, you can use the url for the `form`'s `action`
+```html
+    <h1>Add Task</h1>
+    <form action ="{% url 'tasks:add' %}" method="post">
+        <input type="text" name="task">
+        <input type="submit">
+    </form>
+    <a href = "{% url 'index' %}">View Tasks</a>
+```
+Use **POST** if use are sending the data that can change the stat of the app -> no param in the URL !
+CSRF -> Cross-Site Request Forgery
+This token will be generated uniquely for each user and session, and the website will verify if the token is correct. This can prevent cross-site request forgery, by creating a request from another website that link to this website BUT it is not actually from the correct website. CSRF is enabled by default, as a django middielware. You can disable if it is not required.
+You can generate a token by adding `{% csrf_token %}` in the form. It will be automatically generated and convert into `<input type ="hidden" name="csrfmiddlewaretoken" value="xxxxxxx">`
+
+### Django Form
+Inside the views.py for the application
+You can also add a **client-side validation** to validate the data the user inputted, before being sent to the server.
+```python
+from django import forms
+from django.shortcuts import render
+
+class NewTaskForm(forms.Form):
+	task = forms.CharField(label="New task")
+	priority = forms.IntegerField(label="Priority", min_value = 1, max_value = 100)
+	
+def add(request):
+	return render(request, "tasks/add.html", {
+		"form": NewTaskForm() #render blank form
+	})
+```
+Then inside the html, the django will the automaticalyl generate the form.
+```html
+{{ form }}
+```
+Regarding to the validation, it is a good practice to do **server-side validation** too
+```python
+from django.http import HttpResponseRedirect
+from django.urls import reverse
+
+def add(request):
+
+    if request.method == "POST": #check if it is POST request
+        form = NewTaskForm(request.POST) #will populate the form with the request post data
+        if form.is_valid(): #this can be used to call if the data is valid
+            task = form.cleaned_data["task"] #get access to the user submitted data and assign into the variable
+            tasks.append(task)
+            return HttpResponseRedirect(reverse("tasks:index")) #to redirect user to the http by reversing engineer of the route tasks:index
+        else:
+            return render(request, "tasks/add.html", { #if it error, then still return the same add.html page with the form and the submitted user data.
+                "form": form #it will give me back the form and also the error
+            })
+
+    return render(request, "tasks/add.html",{
+        "form": NewTaskForm() #render "blank" form
+        
+    })
+```
+
+## Django Session
+```python
+# Create your views here.
+def index(request):
+	if "tasks" not in request.session: # To check inside the session if there are already list of tasks in the sessions
+		request.session["tasks"] = [] #If there isn't then create it
+		
+    return render(request, "tasks/index.html",{
+        "tasks":request.session["tasks"]
+    })
+```
+Django mostly want to store the data in the table including the sessions.
+`python manage.py migrate` to create all of the default tables inside of Django's Database
+To add something into the session list, use `request.session["tasks"] += [task]` 
