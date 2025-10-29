@@ -14,6 +14,7 @@
 ## 10 Newest Notes 🆕🔥
 | File                                                                                                                                                           | Created    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/CS50 - JavaScript\|CS50 - JavaScript]]                                                                                                            | 2025-10-27 |
 | [[0 Inbox/CS50 - SQL\|CS50 - SQL]]                                                                                                                          | 2025-10-26 |
 | [[0 Inbox/CS50 - Django\|CS50 - Django]]                                                                                                                    | 2025-10-18 |
 | [[0 Inbox/CS50Web - Python\|CS50Web - Python]]                                                                                                              | 2025-10-14 |
@@ -23,13 +24,14 @@
 | [[0 Inbox/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]                                                                    | 2025-10-12 |
 | [[0 Inbox/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                                                    | 2025-10-05 |
 | [[0 Inbox/Python Requests\|Python Requests]]                                                                                                                | 2025-10-05 |
-| [[2 Areas/Programming/Web/python-dotenv\|python-dotenv]]                                                                                                    | 2025-10-01 |
 
 { .block-language-dataview}
 
 ## 30 Latest Modified Notes ⚒️📝
 | File                                                                                                                                                           | Modified   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[0 Inbox/CS50 - JavaScript\|CS50 - JavaScript]]                                                                                                            | 2025-10-27 |
+| [[2 Areas/Programming/Python/Python Toolbox (Python Data Science Toolbox 2)\|Python Toolbox (Python Data Science Toolbox 2)]]                               | 2025-10-26 |
 | [[0 Inbox/CS50 - SQL\|CS50 - SQL]]                                                                                                                          | 2025-10-26 |
 | [[0 Inbox/CS50 - Django\|CS50 - Django]]                                                                                                                    | 2025-10-25 |
 | [[0 Home/2-Month Intensive Curriculum for InterSystems Technical Specialist Role\|2-Month Intensive Curriculum for InterSystems Technical Specialist Role]] | 2025-10-25 |
@@ -58,7 +60,5 @@
 | [[2 Areas/University/Herpes Simplex\|Herpes Simplex]]                                                                                                       | 2025-10-06 |
 | [[2 Areas/Pharmacy/Acne\|Acne]]                                                                                                                             | 2025-10-06 |
 | [[2 Areas/University/Urticaria - Angioedema\|Urticaria - Angioedema]]                                                                                       | 2025-10-06 |
-| [[2 Areas/University/Asthma & COPD\|Asthma & COPD]]                                                                                                         | 2025-10-06 |
-| [[2 Areas/University/PTHER I/Inhaler Products\|Inhaler Products]]                                                                                           | 2025-10-06 |
 
 { .block-language-dataview}
