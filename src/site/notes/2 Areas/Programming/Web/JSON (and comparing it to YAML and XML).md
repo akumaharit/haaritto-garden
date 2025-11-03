@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/web/json-and-comparing-it-to-yaml-and-xml/","tags":["data"],"created":"2025-11-03T22:40:45.485+07:00","updated":"2025-11-03T22:46:46.743+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/web/json-and-comparing-it-to-yaml-and-xml/","tags":["data"],"created":"2025-11-03T22:40:45.485+07:00","updated":"2025-11-03T22:59:16.285+07:00"}
 ---
 
 JSON (JavaScript Object Notation) is a lightweight text format for structuring data. It’s easy for humans to read/write and easy for machines to parse/generate. It’s language‑independent but based on a subset of JavaScript syntax.
@@ -33,8 +33,8 @@ Typical uses:
 ---
 
 **Example of XML and YAML**
-![Pasted image 20251103224627.png|650](/img/user/3%20Resources/Attachment/Pasted%20image%2020251103224627.png) [ref](https://cdn.prod.website-files.com/5ff66329429d880392f6cba2/6659a312128e060ffb3da078_8%20-%2031.05-min.jpg)
-![JSON comparison with XML YAML.png|650](/img/user/3%20Resources/Attachment/JSON%20comparison%20with%20XML%20YAML.png)  [ref](https://developer.ibm.com/developer/default/tutorials/yaml-basics-and-usage-in-kubernetes/images/table1.png)
+![Pasted image 20251103224627.png|650](/img/user/3%20Resources/Attachment/Pasted%20image%2020251103224627.png) [ref](https://www.wallarm.com/what/what-is-yaml-definition-for-beginners)
+![JSON comparison with XML YAML.png|650](/img/user/3%20Resources/Attachment/JSON%20comparison%20with%20XML%20YAML.png)  [ref](https://developer.ibm.com/tutorials/yaml-basics-and-usage-in-kubernetes/)
 XML
 - Uses tags with attributes/elements
 - More verbose, strictly structured
