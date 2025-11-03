@@ -14,7 +14,7 @@
 ## 10 Newest Notes 🆕🔥
 | File                                                                                                                                                           | Created    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[4 Archives/JSON (and comparing it to YAML and XML)\|JSON (and comparing it to YAML and XML)]]                                                             | 2025-11-03 |
+| [[2 Areas/Programming/Web/JSON (and comparing it to YAML and XML)\|JSON (and comparing it to YAML and XML)]]                                                | 2025-11-03 |
 | [[2 Areas/Programming/Web/CS50 - JavaScript\|CS50 - JavaScript]]                                                                                            | 2025-10-27 |
 | [[2 Areas/Programming/Web/CS50 - SQL\|CS50 - SQL]]                                                                                                          | 2025-10-26 |
 | [[2 Areas/Programming/Web/CS50 - Django\|CS50 - Django]]                                                                                                    | 2025-10-18 |
@@ -30,7 +30,7 @@
 ## 30 Latest Modified Notes ⚒️📝
 | File                                                                                                                                                           | Modified   |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[4 Archives/JSON (and comparing it to YAML and XML)\|JSON (and comparing it to YAML and XML)]]                                                             | 2025-11-03 |
+| [[2 Areas/Programming/Web/JSON (and comparing it to YAML and XML)\|JSON (and comparing it to YAML and XML)]]                                                | 2025-11-03 |
 | [[2 Areas/Programming/Python/Python Toolbox (Python Data Science Toolbox 2)\|Python Toolbox (Python Data Science Toolbox 2)]]                               | 2025-11-03 |
 | [[2 Areas/Programming/Web/CS50 - JavaScript\|CS50 - JavaScript]]                                                                                            | 2025-10-27 |
 | [[2 Areas/Programming/Web/CS50 - SQL\|CS50 - SQL]]                                                                                                          | 2025-10-26 |
