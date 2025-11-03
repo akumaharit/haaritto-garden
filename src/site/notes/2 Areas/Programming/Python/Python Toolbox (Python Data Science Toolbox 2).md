@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/python/python-toolbox-python-data-science-toolbox-2/","created":"2023-03-18T22:17:46.531+07:00","updated":"2025-10-26T21:04:44.558+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/python/python-toolbox-python-data-science-toolbox-2/","created":"2023-03-18T22:17:46.531+07:00","updated":"2025-11-03T22:21:41.879+07:00"}
 ---
 
 ## Iterators
@@ -32,6 +32,14 @@ enumerate object cannot be printed, but can be transform to list before printing
 	- Iterable
 	- **Iterator Variable (ก็คือตัวแทนของแต่ละสมาชิกใน iterable)**
 	- Output expression
+
+You can also add condition in list comprehension such as
+`integers = [j for j in x if type(j) == int else 0]`
+
+You can also create a dictionary comprehension such as
+`x = [1,2,3,4,]`
+`mult = {i: 3*i for i in x}`
+
 Generator ก็คือ List Comprehension แต่เปลี่ยนจาก [] เป็น () ซึ่งตัวมันเองจะไม่ใช่ list และจะไม่ได้สร้าง list ขึ้นมาเวลา assign แค่มันจะเป็น object ที่สามารถ iterable ได้ 
 โดยอาจใช้ for-loop 
 หรือจะ **ใช้ list() ก็ได้เพื่อสร้าง list จาก generator** 
