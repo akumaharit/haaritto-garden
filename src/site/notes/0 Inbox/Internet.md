@@ -21,7 +21,7 @@ Ethernet cable is preferred for direct device connectivity, such as LAN in a sim
 ISP's manage special routers that are all linked together and can access other ISP's routers
 ![Pasted image 20231205183441.png|90](/img/user/3%20Resources/Attachment/Pasted%20image%2020231205183441.png) ![Pasted image 20231205183856.png|237](/img/user/3%20Resources/Attachment/Pasted%20image%2020231205183856.png)
 
-Every machine in the network has **IP address** (IP = Internet Protocol), and we alias an IP address with a human-readable name called [[0 Inbox/Domain Names, DNS\|Domain Names, DNS]]
+Every machine in the network has **IP address** (IP = Internet Protocol), and we alias an IP address with a human-readable name called [[2 Areas/Programming/Web/Domain Names, DNS\|Domain Names, DNS]]
 
 What happened when you open the website?
 1. Clients look at DNS or cached-DNS for the real ip-address

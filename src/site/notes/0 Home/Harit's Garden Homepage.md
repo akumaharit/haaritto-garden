@@ -15,15 +15,15 @@
 | File                                                                                                                                                           | Created    |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[4 Archives/JSON (and comparing it to YAML and XML)\|JSON (and comparing it to YAML and XML)]]                                                             | 2025-11-03 |
-| [[0 Inbox/CS50 - JavaScript\|CS50 - JavaScript]]                                                                                                            | 2025-10-27 |
-| [[0 Inbox/CS50 - SQL\|CS50 - SQL]]                                                                                                                          | 2025-10-26 |
-| [[0 Inbox/CS50 - Django\|CS50 - Django]]                                                                                                                    | 2025-10-18 |
-| [[0 Inbox/CS50Web - Python\|CS50Web - Python]]                                                                                                              | 2025-10-14 |
+| [[2 Areas/Programming/Web/CS50 - JavaScript\|CS50 - JavaScript]]                                                                                            | 2025-10-27 |
+| [[2 Areas/Programming/Web/CS50 - SQL\|CS50 - SQL]]                                                                                                          | 2025-10-26 |
+| [[2 Areas/Programming/Web/CS50 - Django\|CS50 - Django]]                                                                                                    | 2025-10-18 |
+| [[2 Areas/Programming/Web/CS50Web - Python\|CS50Web - Python]]                                                                                              | 2025-10-14 |
 | [[0 Home/2-Month Intensive Curriculum for InterSystems Technical Specialist Role\|2-Month Intensive Curriculum for InterSystems Technical Specialist Role]] | 2025-10-12 |
-| [[0 Inbox/W3School - CSS Form\|W3School - CSS Form]]                                                                                                        | 2025-10-12 |
-| [[0 Inbox/W3School - CSS Flexbox\|W3School - CSS Flexbox]]                                                                                                  | 2025-10-12 |
-| [[0 Inbox/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]                                                                    | 2025-10-12 |
-| [[0 Inbox/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                                                    | 2025-10-05 |
+| [[2 Areas/Programming/Web/W3School - CSS Form\|W3School - CSS Form]]                                                                                        | 2025-10-12 |
+| [[2 Areas/Programming/Web/W3School - CSS Flexbox\|W3School - CSS Flexbox]]                                                                                  | 2025-10-12 |
+| [[2 Areas/Programming/Web/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]                                                    | 2025-10-12 |
+| [[2 Areas/Programming/Web/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                                    | 2025-10-05 |
 
 { .block-language-dataview}
 
@@ -32,18 +32,18 @@
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [[4 Archives/JSON (and comparing it to YAML and XML)\|JSON (and comparing it to YAML and XML)]]                                                             | 2025-11-03 |
 | [[2 Areas/Programming/Python/Python Toolbox (Python Data Science Toolbox 2)\|Python Toolbox (Python Data Science Toolbox 2)]]                               | 2025-11-03 |
-| [[0 Inbox/CS50 - JavaScript\|CS50 - JavaScript]]                                                                                                            | 2025-10-27 |
-| [[0 Inbox/CS50 - SQL\|CS50 - SQL]]                                                                                                                          | 2025-10-26 |
-| [[0 Inbox/CS50 - Django\|CS50 - Django]]                                                                                                                    | 2025-10-25 |
+| [[2 Areas/Programming/Web/CS50 - JavaScript\|CS50 - JavaScript]]                                                                                            | 2025-10-27 |
+| [[2 Areas/Programming/Web/CS50 - SQL\|CS50 - SQL]]                                                                                                          | 2025-10-26 |
+| [[2 Areas/Programming/Web/CS50 - Django\|CS50 - Django]]                                                                                                    | 2025-10-25 |
 | [[0 Home/2-Month Intensive Curriculum for InterSystems Technical Specialist Role\|2-Month Intensive Curriculum for InterSystems Technical Specialist Role]] | 2025-10-25 |
-| [[0 Inbox/CS50Web - Python\|CS50Web - Python]]                                                                                                              | 2025-10-18 |
+| [[2 Areas/Programming/Web/CS50Web - Python\|CS50Web - Python]]                                                                                              | 2025-10-18 |
 | [[2 Areas/Programming/Python/Object Oriented Programming (OOP)\|Object Oriented Programming (OOP)]]                                                         | 2025-10-14 |
-| [[0 Inbox/Odin Project - Git\|Odin Project - Git]]                                                                                                          | 2025-10-12 |
-| [[0 Inbox/CS50Web - HTML and CSS\|CS50Web - HTML and CSS]]                                                                                                  | 2025-10-12 |
-| [[0 Inbox/W3School - CSS Form\|W3School - CSS Form]]                                                                                                        | 2025-10-12 |
-| [[0 Inbox/W3School - CSS Flexbox\|W3School - CSS Flexbox]]                                                                                                  | 2025-10-12 |
-| [[0 Inbox/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]                                                                    | 2025-10-12 |
-| [[0 Inbox/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                                                    | 2025-10-11 |
+| [[2 Areas/Programming/Web/Odin Project - Git\|Odin Project - Git]]                                                                                          | 2025-10-12 |
+| [[2 Areas/Programming/Web/CS50Web - HTML and CSS\|CS50Web - HTML and CSS]]                                                                                  | 2025-10-12 |
+| [[2 Areas/Programming/Web/W3School - CSS Form\|W3School - CSS Form]]                                                                                        | 2025-10-12 |
+| [[2 Areas/Programming/Web/W3School - CSS Flexbox\|W3School - CSS Flexbox]]                                                                                  | 2025-10-12 |
+| [[2 Areas/Programming/Web/Fonts Falbacks and CSS web Safe fonts\|Fonts Falbacks and CSS web Safe fonts]]                                                    | 2025-10-12 |
+| [[2 Areas/Programming/Web/W3School - Bootstrap5\|W3School - Bootstrap5]]                                                                                    | 2025-10-11 |
 | [[2 Areas/University/Thyroid Disorder\|Thyroid Disorder]]                                                                                                   | 2025-10-06 |
 | [[2 Areas/University/Hemorrhoid\|Hemorrhoid]]                                                                                                               | 2025-10-06 |
 | [[0 Inbox/Hematologic Disorder (Summary)\|Hematologic Disorder (Summary)]]                                                                                  | 2025-10-06 |
