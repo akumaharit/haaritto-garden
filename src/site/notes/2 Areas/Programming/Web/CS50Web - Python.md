@@ -21,7 +21,7 @@
 ### Object Oriented Programming
 Classes is like a template for an object.
 All function that will going to operate on themselves (called **methods**) will have to take the first argument called self (which represent the object). 
-Refer to [[2 Areas/Programming/Python/Object Oriented Programming (OOP)\|Object Oriented Programming (OOP)]]  for details
+Refer to [[2 Areas/Programming/Python Data and AI/Object Oriented Programming (OOP)\|Object Oriented Programming (OOP)]]  for details
 ```python
 class Point():
 	def __init__(self, input1, input2): #this is called constructor, It automatically runs whenever you create (instantiate) an object from a class. #self is like, to reference to itself

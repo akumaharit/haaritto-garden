@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/web/cs-50-web-html-and-css/","tags":["cs50web"],"created":"2024-05-03T23:10:10.039+07:00","updated":"2025-10-12T16:22:52.606+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/web/cs-50-web-html-and-css/","tags":["cs50web"],"created":"2024-05-03T23:10:10.039+07:00","updated":"2025-12-13T13:23:56.598+07:00"}
 ---
 
 # HTML
@@ -79,6 +79,7 @@ In case when you wanted to customize the button label but also specify the value
 
   <!-- image search -->
   <button type="submit" name="udm" value="2">Image Search</button>
+  <!-- this return https://www.google.co.th/search?q=asdaasdasd&udm=2 -->
 </form>
 
 ```

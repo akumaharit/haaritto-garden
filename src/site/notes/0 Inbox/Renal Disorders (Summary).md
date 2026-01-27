@@ -205,7 +205,7 @@ EAU Guideline on Urolithiasis 2023
 	- T2DM and T1DM should be screened for CKD
 	- HbA1C q3month if uncontrolled, q6mo if controlled
 	- Target: 6.5-8 individualize by the patient factors
-	- Update to KDIGO Consensus with ADA (จากที่ทำ AC @ [[4 Archives/University Clerkship/04 เจริญกรุงประชารักษ์\|04 เจริญกรุงประชารักษ์]])
+	- Update to KDIGO Consensus with ADA (จากที่ทำ AC @ [[4 Archives/Old MOC/04 เจริญกรุงประชารักษ์\|04 เจริญกรุงประชารักษ์]])
 		- Metformin
 			- ลดเหลือ 1000 @ eGFR < 45 และไม่ให้ใช้ถ้า <30
 		- Insulin

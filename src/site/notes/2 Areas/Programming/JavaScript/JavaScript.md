@@ -1,12 +1,18 @@
 ---
-{"dg-publish":true,"permalink":"/2-areas/programming/java-script/java-script/","tags":["javascript"],"created":"2024-07-28T22:01:55.159+07:00","updated":"2025-12-05T12:32:06.618+07:00"}
+{"dg-publish":true,"permalink":"/2-areas/programming/java-script/java-script/","tags":["javascript"],"created":"2024-07-28T22:01:55.159+07:00","updated":"2026-01-12T22:35:39.073+07:00"}
 ---
 
 # Introduction (from Mozilla) [^1]
+{ #634010}
+
+
 JavaScript is a cross-platform object-oriented scripting language. Standard library of objects such as `Array` , `Map` and `Math` are core library of the JS. Core JS can be extended further for a variety purposes by supplementing it with additional objects; 
 - Client-side JS: For example, to supply objects that allow controlling a browser and its DOM
 - Server-side JS: For example, allow communication with a database.
 Java is a class-based programming language **which is not the same as JavaScript**. JavaScript is standardized at Ecma International. However, use **JavaScript documentation** not the ECMAScript specification one as JavaScript document is the one that describe the aspect of the programming language for the JS programmer.
+
+Add JS script in HTML via `<script src="script.js" defer></script>`
+- `defer` tells the browser to download this script when parsing HTML but execute only after the HTML is fully parsed (to ensures **DOM elements** exist when the script run.)
 
 ## Basic Syntax
 JavaScript is **case-sensitive** and use **Unicode** character set.
@@ -22,7 +28,10 @@ Instructions are called **statements** and are separated by semicolons (;)
 Use backslash \ to prevent a comment from being break `*/` ---> `*\/` 
 Some file may has comment such as `#!/USER/BIN/ENV NODE` -> these are **hashbang comment** syntax
 ## Declarations
-`var` = declare variable (can be both **local** and **global** depending on execution context) -> global context OR function context if the code is part of a function.
+{ #eeea9c}
+
+
+`var` = declare variable (can be both **function** and **global** depending on execution context) -> global context OR function context if the code is part of a function.
 `let` = declare variable, **block** scoped, 
 `const` = declare variable, **block**-scoped, **read only** name constant
 You can use **destructuring syntax** to declare variables to unpack values such as
@@ -32,6 +41,15 @@ const { bar } = foo;
 // will result in variable "bar" holding value of "hello world"
 ```
 The syntax for object destructuring flips this pattern for reading: **the curly braces are placed on the left side of the assignment operator to tell the engine that variables should be created based on the property names found inside the object on the right side.**
+
+If you wanted to go deeper,
+let and const is actually hoisted but it is just in The Temporal Dead Zone (TDZ) causing the **Reference Error**
+
+**Memorization:** 
+var ignores {}
+- if declared inside function = it is function-scoped
+- it declared outside (global) = it is global-scoped
+let and const respect {}
 ### Declaration vs Initialization
 `let x = 42` the `let x` = declaration and 42 is initialization (which is optional for `var` and `let` BUT REQUIRED FOR `const`)
 if variables were declared without initializer, the assign value is `undefined`
@@ -47,6 +65,7 @@ In addition, variables declared with `let` or `const` can belong to an additiona
 ### `var` is **hoisted**
 `var` will always be **declared** and **initialized** with `undefined` even if it is inside function or local scope. The variable can be accessed anywhere BEFORE its value assignment (but will always be `undefined` if you access it before the assignment.)
 Because of hoisting, `var` should be placed near the top of the function or the scope to increase clarity of the code.
+
 
 # JavaScript Basic [^2]
 The syntax is actually the "structure" not the "word". It is the `(), ;` of the coding language.
@@ -152,7 +171,7 @@ function nameOnly(x){ //the name is actually not matter, but it will be the vari
   return x.name //to return the name property of each object inside pets
 }
 
-console.log(ourTest) //this will return ["hello", "hello", "hello", "hello"] because this function always return "hello" for each item in the array.
+console.log(ourTest) //this will return ["Meowsalot", "Barskalot", "Purrsaloud", "Harit"] because this function always return "hello" for each item in the array.
 ```
 
 `.filter()` it does not mutate the array, but return a new value (brand new array) (based on the return boolean, if true that items will be returned, if false, that items will not be returned)
@@ -230,8 +249,126 @@ console.log(pets) //this also returned the array with the new object inside.
 ```
 
 ### JavaScript Scope & Context
+#### Scope -> Focus about Variables
+The code will always check for the scope inward first before moving outward. (inside code can reach outwards for variable, but outside code cannot reach inside for variable.) The variable in each scope, is independent from the same variable in DIFFERENT scope.
+`let` is a local scope (block scope.) **Block scope is introduced 4-5 years ago in JS, and is popular because all other language use this one.**
+`var` is a function scope but can be global if defined in the global scope.
+Read more about scope at [[#^eeea9c| Declarations]]
+
+#### Context -> Focus about Objects
+{ #630f31}
+
+`this` keyword point toward the object that is executing the function.
+```js
+let john = {
+  firstName: "John",
+  lastName: "Doe",
+  driveCar(){
+	function imafunctionnotamethod(){
+		console.log(this)
+	}
+	imafunctionnotamethod() //When you run this one inside the object, the JS understand that it is being run in a global context (because it is not a method of any object!) so the this keyword point to the global root (which is window for webbrowser)
+    console.log(this.firstName)
+  }
+}
+
+john.drivecar() // When you run this, the this keyword understand that it has to point toward "john" object.
+
+function breathe(){
+	console.log(this.firstName + " just inhaled and exhaled")
+}
+breathe.call(john) //this is a method of a function object, which allow you to make the john object, call the function breathe() as its method.
+```
+This also work with the button in HTML
+`<button onclick = "deleteItem(this)">Button</button>` the `this` will refer to this button element.
 
 
+### Miscellaneous Info
+
+#### Ternary Operator
+```js
+// The format
+condition ? valueIfTrue : valueIfFalse
+
+// Example
+nucleotide === "T" ? "U" : nucleotide
+// It actually mean
+if (nucleotide === "T") {
+  return "U"
+} else {
+  return nucleotide
+}
+
+```
+#### Anonymous Function
+This is how you create annonymous function, because it doesn't have a name.
+```js
+document.addEventListener("click", function(){
+	alert("Thank you for clicking")
+})
+```
+#### Arrow Functions
+Remove the word function and keep the (), include arrow between () and {
+```js
+document.addEventListener("click", () => {
+	alert("Thank you for clicking")
+})
+
+//You can change it into just one line.
+document.addEventListener("click", () => {alert("Thank you for clicking")})
+```
+The feature of the arrow function is, it will automatically return what is behind  => 
+and {} is acutally not required **IF IT IS IN ONE LINE**
+And the () is not needed if it is 1 parameters ( the `()` is only needed if it is multiple parameters or 0 parameter)
+```js
+let myNumbers = [10, 500, 2000]
+
+let doubledNumbers = myNumbers.map(function(x){ 
+	return x * 2
+})
+console.log(doubledNumbers)
+
+//IF you turn it into the arrow function it will be like this
+let doubledNumbers = myNumbers.map((x) => { return x * 2})
+//IT ACTUALLY EQUIVALENCE TO THIS ONE
+let doubledNumbers = myNumbers.map(x =>  x * 2)
+```
+You can declare a function just like a variable, and it point to the context difference than [[#^630f31|declaring a function in an object and call it.]]
+```js
+let imAFunctionNotaMethod = () => console.log(this)
+imAFunctionNotaMethod()
+//when you call this function, the 'this' keyword will point in your current context. IT WILL NOT ALWAYS POINT TO THE GLOBAL
+```
+
+#### Function Hoisting
+Normally, you have to declare a function first before you call the function (just like a variable.)
+But in JavaScript, the function is **hoisted**
+```javascript
+cool()
+
+function cool(){
+	console.log("This is super cool")
+}
+```
+However, if you create a function as a anonymous function it will not hoist.
+```js
+cool()
+
+let cool = function(){
+	console.log("Hey")
+}
+```
+
+#### Template Literals
+```js
+let myname = "Brad"
+console.log(`Hello, my name is ${myname} and the sky is blue.`)
+//Inside {} you could do anything in JS such as ${2+2}
+```
+This also allow you to write multiple line of code without the need of `\n `
+
+#### Semicolons
+As stated earlier in [[#^634010| Introduction Part]], the JavaScript automatically insert semicolons
 
 
 
@@ -254,6 +391,7 @@ Error that occured because of ... in a language with zero-index position is call
 - .repeat() to repeat the string value for a certain time
 ### Loop
 - `for ("iterator"; "condition"; "iteration") {}`
+- ![Pasted image 20260112223537.png](/img/user/3%20Resources/Attachment/Pasted%20image%2020260112223537.png)
 - You can also use `for(const element of array){}` to loop for the element in array, we use `const` because the variable only exists for a single iteration, not during the entire loop.
 
 
